@@ -1,0 +1,1308 @@
+stdClass Object
+(
+    [search_metadata] => stdClass Object
+        (
+            [id] => 64cb0da8629a01c4b73e57f2
+            [status] => Success
+            [json_endpoint] => https://serpapi.com/searches/5022f24f71fef46d/64cb0da8629a01c4b73e57f2.json
+            [created_at] => 2023-08-03 02:15:04 UTC
+            [processed_at] => 2023-08-03 02:15:04 UTC
+            [google_url] => https://www.google.com/search?q=2.+Bundesliga&oq=2.+Bundesliga&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sourceid=chrome&ie=UTF-8
+            [raw_html_file] => https://serpapi.com/searches/5022f24f71fef46d/64cb0da8629a01c4b73e57f2.html
+            [total_time_taken] => 2.85
+        )
+
+    [search_parameters] => stdClass Object
+        (
+            [engine] => google
+            [q] => 2. Bundesliga
+            [location_requested] => austin, texas, united states
+            [location_used] => Austin,Texas,United States
+            [google_domain] => google.com
+            [device] => desktop
+        )
+
+    [search_information] => stdClass Object
+        (
+            [organic_results_state] => Results for exact spelling
+            [query_displayed] => 2. Bundesliga
+            [total_results] => 285000000
+            [time_taken_displayed] => 0.61
+            [menu_items] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [position] => 1
+                            [title] => News
+                            [link] => https://www.google.com/search?q=2.+Bundesliga&tbm=nws&source=lnms&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ0pQJegQIDRAB
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=2.+Bundesliga&tbm=nws
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [position] => 2
+                            [title] => Standings
+                            [link] => https://www.google.com/search?q=2+Bundesliga+standings&uds=H4sIAAAAAAAA_-My4eIMLknMS8nMSy8W4jXSU3AqzUtJLc7JTE80YCwSM0LiKxTDFAIA_IYEMzYAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxKsJegQIDBAB&ictx=0
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=2+Bundesliga+standings
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [position] => 3
+                            [title] => Players
+                            [link] => https://www.google.com/search?q=2+bundesliga+players&uds=H4sIAAAAAAAA_-My4GIPyEmsTC0qFuI10lNwKs1LSS3OyUxPNGAsEjFSSILzFQogygBsvnyWMgAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxKsJegQICxAB&ictx=0
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=2+bundesliga+players
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [position] => 4
+                            [title] => Final table
+                            [link] => https://www.google.com/search?q=Bundesliga+2+final+table&uds=H4sIAAAAAAAA_-Oy4OJ2y8xLzFEoSUzKSRXiNdJTcCrNS0ktzslMTzRgLJJA8BSMFNIQSgHkdy3SOgAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxKsJegQIChAB&ictx=0
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bundesliga+2+final+table
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [position] => 5
+                            [title] => Locations
+                            [link] => https://www.google.com/search?q=Bundesliga+2+locations&uds=H4sIAAAAAAAA_-My4eL0yU9OLMnMzysW4jXSU3AqzUtJLc7JTE80YCwSQ_AUjBRyYAoBJMV6gDYAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxKsJegQIcRAB&ictx=0
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bundesliga+2+locations
+                        )
+
+                    [5] => stdClass Object
+                        (
+                            [position] => 6
+                            [title] => Fixtures
+                            [link] => https://www.google.com/search?q=Bundesliga+2+fixtures&uds=H4sIAAAAAAAA_-My4uJwy6woKS1KLRbiNdJTcCrNS0ktzslMTzRgLBJF8BSMFNKg6gBodftBNAAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxKsJegQIdBAB&ictx=0
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bundesliga+2+fixtures
+                        )
+
+                    [6] => stdClass Object
+                        (
+                            [position] => 7
+                            [title] => Images
+                            [link] => https://www.google.com/search?q=2.+Bundesliga&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ0pQJegQIchAB
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=2.+Bundesliga
+                        )
+
+                    [7] => stdClass Object
+                        (
+                            [position] => 8
+                            [title] => Promotion
+                            [link] => https://www.google.com/search?q=2+Bundesliga+promotion&uds=H4sIAAAAAAAA_-My4eIMKMrPzS_JzM8T4jXSU3AqzUtJLc7JTE80YCoSM0LiKxTAFAIA5U7k6jYAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxKsJegQIdRAB&ictx=0
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=2+Bundesliga+promotion
+                        )
+
+                    [8] => stdClass Object
+                        (
+                            [position] => 9
+                            [title] => Playoff
+                            [link] => https://www.google.com/search?q=2.+bundesliga+playoff&uds=H4sIAAAAAAAA_-My5GIPyEmszE9LE-I10lNwKs1LSS3OyUxPNGAqEgUKJMEFFAog6gDDuNlfMwAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxKsJegQIcxAB&ictx=0
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=2.+bundesliga+playoff
+                        )
+
+                )
+
+        )
+
+    [sports_results] => stdClass Object
+        (
+            [title] => 2. Bundesliga
+            [rankings] => Soccer league
+            [games] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [tournament] => 2. Bundesliga
+                            [stadium] => merkur spiel arena
+                            [status] => FT
+                            [date] => Sat, Jul 29
+                            [teams] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => Düsseldorf
+                                            [score] => 1
+                                            [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/e3e53d29fce56a5c1e845b3bd0002820fee5074de8a546a9a2ce6d9b47145f4de8f1e46b18081fe678351bea86080818.png
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [name] => Hertha
+                                            [score] => 0
+                                            [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/e3e53d29fce56a5c1e845b3bd0002820fee5074de8a546a9071aa005ad94240c84371b8cb08a6a659a12e0ae366ee82c.png
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [tournament] => 2. Bundesliga
+                            [stadium] => Eintracht-Stadion
+                            [status] => FT
+                            [date] => Sun, Jul 30
+                            [teams] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => Eintracht Braunschweig
+                                            [score] => 0
+                                            [red_card] => 1
+                                            [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/e3e53d29fce56a5c1e845b3bd000282026139a1a574c0661426208fe585d0ee0e4ee13f6c4f6664bce7f9be33cc47c15.png
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [name] => Holstein Kiel
+                                            [score] => 1
+                                            [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/e3e53d29fce56a5c1e845b3bd000282026139a1a574c066164a501082252a0658a66420a18c065a337f776d8235f2f0c.png
+                                        )
+
+                                )
+
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [tournament] => 2. Bundesliga
+                            [stadium] => Ostseestadion
+                            [status] => FT
+                            [date] => Sun, Jul 30
+                            [teams] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => Hansa
+                                            [score] => 2
+                                            [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/e3e53d29fce56a5c1e845b3bd0002820c9171cc2f1121d971759e54bd87679f65b0660ce62a3a218e0b4704030bbf927.png
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [name] => Nürnberg
+                                            [score] => 0
+                                            [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/e3e53d29fce56a5c1e845b3bd0002820c9171cc2f1121d971615db04e35ee0925efe2b5b1782185fb163e1efb6423afa.png
+                                        )
+
+                                )
+
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [tournament] => 2. Bundesliga
+                            [stadium] => Sportpark Ronhof Thomas Sommer
+                            [status] => FT
+                            [date] => Sun, Jul 30
+                            [teams] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => Fürth
+                                            [score] => 5
+                                            [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/e3e53d29fce56a5c1e845b3bd0002820f4b8d04a5167e47b821453b286661229a6cd548f743f032f5c9c3c900dab6d54.png
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [name] => Paderborn
+                                            [score] => 0
+                                            [red_card] => 1
+                                            [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/e3e53d29fce56a5c1e845b3bd0002820f4b8d04a5167e47b18d046316e3b9adabd10ffca7c85a77e58d8b7591a395039.png
+                                        )
+
+                                )
+
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [tournament] => 2. Bundesliga
+                            [stadium] => Olympiastadion Berlin
+                            [date] => Fri, Aug 4
+                            [time] => 11:30 AM
+                            [teams] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => Hertha
+                                            [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/e3e53d29fce56a5c1e845b3bd0002820e434075eba6189ac79b3f9bd62b471f4c3cddecb17779ccb23b56774112aace8.png
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [name] => Wehen Wiesbaden
+                                            [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/e3e53d29fce56a5c1e845b3bd0002820e434075eba6189acd41e4055efe1b0139d26dc3d144fdea5a1077b58b98df014.png
+                                        )
+
+                                )
+
+                        )
+
+                    [5] => stdClass Object
+                        (
+                            [tournament] => 2. Bundesliga
+                            [stadium] => Home Deluxe Arena
+                            [date] => Fri, Aug 4
+                            [time] => 11:30 AM
+                            [teams] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => Paderborn
+                                            [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/e3e53d29fce56a5c1e845b3bd0002820cc9ac29b79e9252c6f20770cdf2355d3a50b8d4eb31d6a37ddb6cd9b661d6bed.png
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [name] => Vfl Osnabruck
+                                            [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/e3e53d29fce56a5c1e845b3bd0002820cc9ac29b79e9252cab1599866396f7f1a20ab72578b80baa9b88d20f561f67a9.png
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [knowledge_graph] => stdClass Object
+        (
+            [title] => 2. Bundesliga
+            [type] => Soccer league
+            [kgmid] => /m/09fj8w
+            [knowledge_graph_search_link] => https://www.google.com/search?kgmid=/m/09fj8w&hl=en-US&q=2.+Bundesliga&kgs=fc56d6df300f25b9&shndl=0&source=sh/x/kp/m1/1
+            [serpapi_knowledge_graph_search_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F09fj8w&location=austin%2C+texas%2C+united+states&q=2.+Bundesliga
+            [tabs] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [text] => Standings
+                            [link] => https://www.google.com/search?q=2+Bundesliga+standings&uds=H4sIAAAAAAAA_-My4eIMLknMS8nMSy8W4jXSU3AqzUtJLc7JTE80YCwSM0LiKxTDFAIA_IYEMzYAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxKsJegQIDBAB&ictx=0
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=2+Bundesliga+standings
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [text] => Players
+                            [link] => https://www.google.com/search?q=2+bundesliga+players&uds=H4sIAAAAAAAA_-My4GIPyEmsTC0qFuI10lNwKs1LSS3OyUxPNGAsEjFSSILzFQogygBsvnyWMgAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxKsJegQICxAB&ictx=0
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=2+bundesliga+players
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [text] => Final table
+                            [link] => https://www.google.com/search?q=Bundesliga+2+final+table&uds=H4sIAAAAAAAA_-Oy4OJ2y8xLzFEoSUzKSRXiNdJTcCrNS0ktzslMTzRgLJJA8BSMFNIQSgHkdy3SOgAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxKsJegQIChAB&ictx=0
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Bundesliga+2+final+table
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [text] => Locations
+                            [link] => https://www.google.com/search?q=Bundesliga+2+locations&uds=H4sIAAAAAAAA_-My4eL0yU9OLMnMzysW4jXSU3AqzUtJLc7JTE80YCwSQ_AUjBRyYAoBJMV6gDYAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxKsJegQIcRAB&ictx=0
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Bundesliga+2+locations
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [text] => Fixtures
+                            [link] => https://www.google.com/search?q=Bundesliga+2+fixtures&uds=H4sIAAAAAAAA_-My4uJwy6woKS1KLRbiNdJTcCrNS0ktzslMTzRgLBJF8BSMFNKg6gBodftBNAAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxKsJegQIdBAB&ictx=0
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Bundesliga+2+fixtures
+                        )
+
+                    [5] => stdClass Object
+                        (
+                            [text] => Promotion
+                            [link] => https://www.google.com/search?q=2+Bundesliga+promotion&uds=H4sIAAAAAAAA_-My4eIMKMrPzS_JzM8T4jXSU3AqzUtJLc7JTE80YCoSM0LiKxTAFAIA5U7k6jYAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxKsJegQIdRAB&ictx=0
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=2+Bundesliga+promotion
+                        )
+
+                    [6] => stdClass Object
+                        (
+                            [text] => Playoff
+                            [link] => https://www.google.com/search?q=2.+bundesliga+playoff&uds=H4sIAAAAAAAA_-My5GIPyEmszE9LE-I10lNwKs1LSS3OyUxPNGAqEgUKJMEFFAog6gDDuNlfMwAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxKsJegQIcxAB&ictx=0
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=2.+bundesliga+playoff
+                        )
+
+                )
+
+            [header_images] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [image] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/a1634fad358f8b485acd48015db4d0dc1031183b878348d80afd394638d075aae730cbe13191289a.png
+                            [source] => https://en.wikipedia.org/wiki/2._Bundesliga
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [image] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/a1634fad358f8b485acd48015db4d0dc1031183b878348d8769d6d96526b722976c17d70c5e232b2.jpeg
+                            [source] => https://www.espn.com/soccer/standings/_/league/ger.2
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [image] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/a1634fad358f8b485acd48015db4d0dc1031183b878348d8958cc29229581e090e1f057ef619ca4d.png
+                            [source] => https://en.wikipedia.org/wiki/2._Frauen-Bundesliga
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [image] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/a1634fad358f8b485acd48015db4d0dc1031183b878348d8d8f25ec16762ae8cfe55a9bd63de1d96.png
+                            [source] => https://www.facebook.com/2.bundesligaUS/
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [image] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/a1634fad358f8b485acd48015db4d0dc1031183b878348d89de1bb1afb5e25d8c265ab1b5d00172f.png
+                            [source] => https://www.bundesliga.com/en/2bundesliga
+                        )
+
+                    [5] => stdClass Object
+                        (
+                            [image] => https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeIHNAN1gOKWQRVGajYXrwvE1OeWSsXEnk3F6rx-_JKw&s
+                            [source] => https://www.bundesliga.com/en/2bundesliga
+                        )
+
+                    [6] => stdClass Object
+                        (
+                            [image] => https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCQusJ-aYIOyjMkr0K037MFqTHSN7zs3i2xpq0RRnYlw&s
+                            [source] => https://www.bundesliga.com/en/2bundesliga
+                        )
+
+                )
+
+            [description] => The 2. Bundesliga is the second division of professional football in Germany. It was implemented 11 years after the founding of the Fußball-Bundesliga as the new second division for professional football. The 2. Bundesliga is ranked below the Bundesliga and above the 3. Liga in the German football league system.
+            [source] => stdClass Object
+                (
+                    [name] => Wikipedia
+                    [link] => https://en.wikipedia.org/wiki/2._Bundesliga
+                )
+
+            [promotion_to] => Bundesliga
+            [promotion_to_links] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [text] => Promotion to
+                            [link] => https://www.google.com/search?q=2.+bundesliga+promotion+to&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ6BMoAHoECGUQAg
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [text] => Bundesliga
+                            [link] => https://www.google.com/search?q=Bundesliga&stick=H4sIAAAAAAAAAONgVuLUz9U3MDY3NLNcxMrlVJqXklqck5meCAC9JOrYGgAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQmxMoAXoECGUQAw
+                        )
+
+                )
+
+            [current_champions] => 1. FC Heidenheim (1st title); (2022–23)
+            [current_champions_links] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [text] => Current champions
+                            [link] => https://www.google.com/search?q=2.+bundesliga+current+champions&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ6BMoAHoECGMQAg
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [text] => 1. FC Heidenheim
+                            [link] => https://www.google.com/search?q=1.+FC+Heidenheim&stick=H4sIAAAAAAAAAONgVuLSz9U3MCrKKywzW8QqYKin4Oas4JGamZKal5GamQsAB2bOFSEAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQmxMoAXoECGMQAw
+                        )
+
+                )
+
+            [founded] => 1974; 49 years ago
+            [founded_links] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [text] => Founded
+                            [link] => https://www.google.com/search?q=2.+bundesliga+founded&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ6BMoAHoECGIQAg
+                        )
+
+                )
+
+            [most_championships] => Arminia Bielefeld; 1. FC Nürnberg; SC Freiburg; 1. FC Köln; VfL Bochum; (4 titles each)
+            [most_championships_links] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [text] => Most championships
+                            [link] => https://www.google.com/search?q=2.+bundesliga+most+championships&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ6BMoAHoECGcQAg
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [text] => Arminia Bielefeld
+                            [link] => https://www.google.com/search?q=Arminia+Bielefeld&stick=H4sIAAAAAAAAAONgVuLUz9U3MEkyzTNYxCroWJSbmZeZqOCUmZqTmpaakwIAnPtfkiEAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQmxMoAXoECGcQAw
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [text] => 1. FC Nürnberg
+                            [link] => https://www.google.com/search?q=1.+FC+N%C3%BCrnberg&stick=H4sIAAAAAAAAAONgVuLSz9U3MC-2KMw1X8TKb6in4Oas4Hd4T1FeUmpROgCTGwvwIAAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQmxMoAnoECGcQBA
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [text] => SC Freiburg
+                            [link] => https://www.google.com/search?q=SC+Freiburg&stick=H4sIAAAAAAAAAONgVuLUz9U3MDXMMzRexMod7KzgVpSamVRalA4AVKZ2GxsAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQmxMoA3oECGcQBQ
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [text] => 1. FC Köln
+                            [link] => https://www.google.com/search?q=1.+FC+K%C3%B6ln&stick=H4sIAAAAAAAAAONgVuLUz9U3MMrINchdxMptqKfg5qzgfXhbTh4Avhf_rhsAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQmxMoBHoECGcQBg
+                        )
+
+                    [5] => stdClass Object
+                        (
+                            [text] => VfL Bochum
+                            [link] => https://www.google.com/search?q=VfL+Bochum&stick=H4sIAAAAAAAAAONgVuLUz9U3MMq2zLZcxMoVluaj4JSfnFGaCwAGbXbOGgAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQmxMoBXoECGcQBw
+                        )
+
+                )
+
+            [domestic_cup_s] => DFB-Pokal
+            [domestic_cup_s_links] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [text] => Domestic cup(s)
+                            [link] => https://www.google.com/search?q=2.+bundesliga+domestic+cups&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ6BMoAHoECGQQAg
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [text] => DFB-Pokal
+                            [link] => https://www.google.com/search?q=DFB-Pokal&stick=H4sIAAAAAAAAAONgVuLUz9U3MDasMktfxMrp4uakG5CfnZgDAMac-MYZAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQmxMoAXoECGQQAw
+                        )
+
+                )
+
+            [teams] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Hamburger SV
+                            [link] => https://www.google.com/search?q=Hamburger+SV&stick=H4sIAAAAAAAAAONgFuLUz9U3sEzLsihXAjONcgtysrS0PPLTyzNzUoIL8otKih2Li_OTMxNLMvPzikNSE3OLQ_IhEiDOIlYej8TcpNKi9NQiheCwHayMAJLSoqxWAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxA16BAheEAU
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Hamburger+SV&stick=H4sIAAAAAAAAAONgFuLUz9U3sEzLsihXAjONcgtysrS0PPLTyzNzUoIL8otKih2Li_OTMxNLMvPzikNSE3OLQ_IhEiDOIlYej8TcpNKi9NQiheCwHayMAJLSoqxWAAAA
+                            [image] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/a1634fad358f8b485acd48015db4d0dc99a1cf6ab757b5a02a7928757201e1a5.png
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => FC St. Pauli
+                            [link] => https://www.google.com/search?q=FC+St.+Pauli&stick=H4sIAAAAAAAAAONgFuLUz9U3sEzLsihXAjONc5LMzbS0PPLTyzNzUoIL8otKih2Li_OTMxNLMvPzikNSE3OLQ_IhEiDOIlYeN2eF4BI9hYDE0pzMHayMAN7W5sRWAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxA16BAheEAc
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=FC+St.+Pauli&stick=H4sIAAAAAAAAAONgFuLUz9U3sEzLsihXAjONc5LMzbS0PPLTyzNzUoIL8otKih2Li_OTMxNLMvPzikNSE3OLQ_IhEiDOIlYeN2eF4BI9hYDE0pzMHayMAN7W5sRWAAAA
+                            [image] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/a1634fad358f8b485acd48015db4d0dc631669423a17132657d4e0a6817ad4bc.png
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [name] => Hertha BSC
+                            [link] => https://www.google.com/search?q=Hertha+BSC&stick=H4sIAAAAAAAAAONgFuLUz9U3sEzLsihXAjNNLFOqqrS0PPLTyzNzUoIL8otKih2Li_OTMxNLMvPzikNSE3OLQ_IhEiDOIlYuj9SikoxEBadg5x2sjADn2iQwVAAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxA16BAheEAk
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Hertha+BSC&stick=H4sIAAAAAAAAAONgFuLUz9U3sEzLsihXAjNNLFOqqrS0PPLTyzNzUoIL8otKih2Li_OTMxNLMvPzikNSE3OLQ_IhEiDOIlYuj9SikoxEBadg5x2sjADn2iQwVAAAAA
+                            [image] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/a1634fad358f8b485acd48015db4d0dc437f99b65ea444b247efa032bb11a42f.png
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [name] => F.C. Hansa Rostock
+                            [link] => https://www.google.com/search?q=F.C.+Hansa+Rostock&stick=H4sIAAAAAAAAAONgFuLUz9U3sEzLsihXAjONykzKcrS0PPLTyzNzUoIL8otKih2Li_OTMxNLMvPzikNSE3OLQ_IhEiDOIlYhNz1nPQWPxLziRIWg_OKS_OTsHayMAJztJVJcAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxA16BAheEAs
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=F.C.+Hansa+Rostock&stick=H4sIAAAAAAAAAONgFuLUz9U3sEzLsihXAjONykzKcrS0PPLTyzNzUoIL8otKih2Li_OTMxNLMvPzikNSE3OLQ_IhEiDOIlYhNz1nPQWPxLziRIWg_OKS_OTsHayMAJztJVJcAAAA
+                            [image] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/a1634fad358f8b485acd48015db4d0dc47ef57463dbd7692f84bdf57bc45847f.png
+                        )
+
+                )
+
+            [teams_link] => https://www.google.com/search?q=2.+bundesliga+teams&stick=H4sIAAAAAAAAAONgFuLUz9U3sEzLsihXQjC1NDLKrfST83NyUpNLMvPz9IsL8otKiuMTi4vzkzMTQULFViWpibnFi1iFjfQUkkrzUlKLczLTExXAojtYGQHK8YOjWwAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQMSgAegQIXhAB
+            [teams_stick] => H4sIAAAAAAAAAONgFuLUz9U3sEzLsihXQjC1NDLKrfST83NyUpNLMvPz9IsL8otKiuMTi4vzkzMTQULFViWpibnFi1iFjfQUkkrzUlKLczLTExXAojtYGQHK8YOjWwAAAA
+            [instances] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => 2. Bundesliga 2023–2024
+                            [link] => https://www.google.com/search?q=2.+bundesliga+2023%E2%80%932024&stick=H4sIAAAAAAAAAONgFuLUz9U3sEzLsihX4tVP1zc0zC4qqkzJSTPTkstOttIvSk0uLSrKzEuPTy1LzSsptsrMKy5JzEtOLV7EKmmkp5BUmpeSWpyTmZ6oYGRgZPyoYTKQMtnByggAlgHuAVsAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxA16BAhfEAU
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=2.+bundesliga+2023%E2%80%932024&stick=H4sIAAAAAAAAAONgFuLUz9U3sEzLsihX4tVP1zc0zC4qqkzJSTPTkstOttIvSk0uLSrKzEuPTy1LzSsptsrMKy5JzEtOLV7EKmmkp5BUmpeSWpyTmZ6oYGRgZPyoYTKQMtnByggAlgHuAVsAAAA
+                            [image] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/a1634fad358f8b485acd48015db4d0dc795e9bf9f326aa41d9dd205dde907cd1822ea3d58d2fe0e7.png
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => 2022–23 2. Bundesliga
+                            [link] => https://www.google.com/search?q=2022%E2%80%9323+2.+Bundesliga&stick=H4sIAAAAAAAAAONgFuLUz9U3sEzLsihX4tVP1zc0LMpIzzPKLTLRkstOttIvSk0uLSrKzEuPTy1LzSsptsrMKy5JzEtOLV7EKm5kYGT0qGGykbGCkZ6CU2leSmpxTmZ64g5WRgClA4nvWQAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxA16BAhfEAc
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=2022%E2%80%9323+2.+Bundesliga&stick=H4sIAAAAAAAAAONgFuLUz9U3sEzLsihX4tVP1zc0LMpIzzPKLTLRkstOttIvSk0uLSrKzEuPTy1LzSsptsrMKy5JzEtOLV7EKm5kYGT0qGGykbGCkZ6CU2leSmpxTmZ64g5WRgClA4nvWQAAAA
+                            [image] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/a1634fad358f8b485acd48015db4d0dc795e9bf9f326aa413ac114e19d2d2001ec03fc7c4f4c4de6.png
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [name] => 2021–22 2. Bundesliga
+                            [link] => https://www.google.com/search?q=2021%E2%80%9322+2.+Bundesliga&stick=H4sIAAAAAAAAAONgFuLUz9U3sEzLsihX4tVP1zc0zMmuKMjKK6_UkstOttIvSk0uLSrKzEuPTy1LzSsptsrMKy5JzEtOLV7EKm5kYGT4qGGykZGCkZ6CU2leSmpxTmZ64g5WRgBCVLgjWQAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxA16BAhfEAk
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=2021%E2%80%9322+2.+Bundesliga&stick=H4sIAAAAAAAAAONgFuLUz9U3sEzLsihX4tVP1zc0zMmuKMjKK6_UkstOttIvSk0uLSrKzEuPTy1LzSsptsrMKy5JzEtOLV7EKm5kYGT4qGGykZGCkZ6CU2leSmpxTmZ64g5WRgBCVLgjWQAAAA
+                            [image] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/a1634fad358f8b485acd48015db4d0dc795e9bf9f326aa413e05156fcc4199a35b7cbecd37f4b256.png
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [name] => 2020–21 2. Bundesliga
+                            [link] => https://www.google.com/search?q=2020%E2%80%9321+2.+Bundesliga&stick=H4sIAAAAAAAAAONgFuLUz9U3sEzLsihX4tVP1zc0zDIrzDEyNU_XkstOttIvSk0uLSrKzEuPTy1LzSsptsrMKy5JzEtOLV7EKm5kYGTwqGGykaGCkZ6CU2leSmpxTmZ64g5WRgB5X164WQAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxA16BAhfEAs
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=2020%E2%80%9321+2.+Bundesliga&stick=H4sIAAAAAAAAAONgFuLUz9U3sEzLsihX4tVP1zc0zDIrzDEyNU_XkstOttIvSk0uLSrKzEuPTy1LzSsptsrMKy5JzEtOLV7EKm5kYGTwqGGykaGCkZ6CU2leSmpxTmZ64g5WRgB5X164WQAAAA
+                            [image] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/a1634fad358f8b485acd48015db4d0dc795e9bf9f326aa417d533d7cdcf4a7b72c8079ecf4bedf5a.jpeg
+                        )
+
+                )
+
+            [instances_link] => https://www.google.com/search?q=2.+bundesliga+instances&stick=H4sIAAAAAAAAAONgFuLUz9U3sEzLsihXQjC15LKTrfSLUpNLi4oy89LjU8tS80qKrTLziksS85JTixexihvpKSSV5qWkFudkpicqwGV2sDICAEMl_lhVAAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQMSgAegQIXxAB
+            [instances_stick] => H4sIAAAAAAAAAONgFuLUz9U3sEzLsihXQjC15LKTrfSLUpNLi4oy89LjU8tS80qKrTLziksS85JTixexihvpKSSV5qWkFudkpicqwGV2sDICAEMl_lhVAAAA
+            [people_also_search_for] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [name] => Bundesliga
+                            [link] => https://www.google.com/search?q=Bundesliga&si=ACFMAn_Gd9OM2CPb2aZmeZqmDNcQe6dffWLqUS3eIZkPr91_p4EalEReIZDRaTGlfN2dUcU5WkUiG1k5izCNrZGc6czRmCZGIhxtv69nj2TjfeaxKgDRQtCdbGPookDRS-PAmaBXF9PoB102Sp7XWUcXjcVSrLRUQqcofc4zWxNUvZ10j0w3SXa_vEtdE940Zg8o5iNwxj9Z_i46WpgMQj6SO0_KT02Gngx60jYo-v-BgGCmtml4hXxCfw2XNeSmI6_4YtOgoWKXiF87PxisJgCcgykI2RaaGL5jEwsdg3iLyOLnJCelvWM%3D&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxA16BAhdEAU
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Bundesliga&si=ACFMAn_Gd9OM2CPb2aZmeZqmDNcQe6dffWLqUS3eIZkPr91_p4EalEReIZDRaTGlfN2dUcU5WkUiG1k5izCNrZGc6czRmCZGIhxtv69nj2TjfeaxKgDRQtCdbGPookDRS-PAmaBXF9PoB102Sp7XWUcXjcVSrLRUQqcofc4zWxNUvZ10j0w3SXa_vEtdE940Zg8o5iNwxj9Z_i46WpgMQj6SO0_KT02Gngx60jYo-v-BgGCmtml4hXxCfw2XNeSmI6_4YtOgoWKXiF87PxisJgCcgykI2RaaGL5jEwsdg3iLyOLnJCelvWM%3D
+                            [image] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/a1634fad358f8b485acd48015db4d0dcec9bb6c673f3d8db54daee64f271176057466dfaae5ad30d71c701c9f0861442.png
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [name] => 3. Liga
+                            [link] => https://www.google.com/search?q=3.+Liga&si=ACFMAn_Gd9OM2CPb2aZmeZqmDNcQe6dffWLqUS3eIZkPr91_p9i9C0s8599T6v9ljRP1IljEnOICnxD8KhOUP8GYyXcPnMKoMiz00TkQ_Be7PSf_P27IywoIx5IRSaHU7D2MhJFOVP9WzWRudow_Qp1MeDQCs9SWglbjlWZ2zqN2AlmBU8Ehs2QGiEC0fO_FuCHEkMs9PKbe7hwOKnBdvsrXZ-7rCdAPvyntWol8bo7v3TilpGELWlTQMIS0E6AHhSBKsTeMLFiqglDF5GdapqC4unjwxm10AOzgNFfEYS-BZgn9WZcbJck%3D&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxA16BAhdEAc
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=3.+Liga&si=ACFMAn_Gd9OM2CPb2aZmeZqmDNcQe6dffWLqUS3eIZkPr91_p9i9C0s8599T6v9ljRP1IljEnOICnxD8KhOUP8GYyXcPnMKoMiz00TkQ_Be7PSf_P27IywoIx5IRSaHU7D2MhJFOVP9WzWRudow_Qp1MeDQCs9SWglbjlWZ2zqN2AlmBU8Ehs2QGiEC0fO_FuCHEkMs9PKbe7hwOKnBdvsrXZ-7rCdAPvyntWol8bo7v3TilpGELWlTQMIS0E6AHhSBKsTeMLFiqglDF5GdapqC4unjwxm10AOzgNFfEYS-BZgn9WZcbJck%3D
+                            [image] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/a1634fad358f8b485acd48015db4d0dcec9bb6c673f3d8db54daee64f2711760274d4ee8bd5936edd2f0841b3a8c3db7.png
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [name] => Premier League
+                            [link] => https://www.google.com/search?q=Premier+League&si=ACFMAn86XkhxzOC35jo3k1ec_mUa4PwHgnEtN6tbGWMWaJ9RAhXP3yD0X0BZB3vb8HN9w8qWXJzRX2COIncz5gon2nomxj3iD1q046V7GSH6yeGZ0Dp0aQ9rzMflrsnF25kDMHCqL9hyDRazqmQoKJPUVMbgUscgpe5L5nlQtX9-zGHfibnZUJj3Q5KhWgfdI-3xq_r7j_EFfcHgxCptjFeRkxLtDWMRZbkoRD9qMmxyOfG3VuXAY8UWXxq90ML8BQu1q4vqFu5us-NJ-llhNXf9AEt6O1AavML6a3Mx7S3aDlgrkuOYXsE%3D&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxA16BAhdEAk
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Premier+League&si=ACFMAn86XkhxzOC35jo3k1ec_mUa4PwHgnEtN6tbGWMWaJ9RAhXP3yD0X0BZB3vb8HN9w8qWXJzRX2COIncz5gon2nomxj3iD1q046V7GSH6yeGZ0Dp0aQ9rzMflrsnF25kDMHCqL9hyDRazqmQoKJPUVMbgUscgpe5L5nlQtX9-zGHfibnZUJj3Q5KhWgfdI-3xq_r7j_EFfcHgxCptjFeRkxLtDWMRZbkoRD9qMmxyOfG3VuXAY8UWXxq90ML8BQu1q4vqFu5us-NJ-llhNXf9AEt6O1AavML6a3Mx7S3aDlgrkuOYXsE%3D
+                            [image] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/a1634fad358f8b485acd48015db4d0dcec9bb6c673f3d8db54daee64f271176018cdd04bd1f20accf6a821b8915722b0.png
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [name] => Serie A
+                            [link] => https://www.google.com/search?q=Serie+A&si=ACFMAn86XkhxzOC35jo3k1ec_mUa4PwHgnEtN6tbGWMWaJ9RApRSkajSu25a5bjf56ET1PKqwY0ZRlswg_UB_D1oYmiRf2Ha2jscSDO7xIX5uM75xmwsjKPs9Ujrad_BV9fXtS4PjWzwynmKMVk1PeiJmBNGSOikl4rWft0UVy8UtnSf7NZEhe4wNoGhh66t-3P5xw7aiHTO6BOVpcAybTDFx11dqz8nlfZQxwNFVFFcyd0CEAvKKEDgpRX8M4MwItywouDQ1hW8q5p5n4nTpCVpI1EXWSrD-NLdxH_sp_ey5v83AhQMSd4%3D&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQxA16BAhdEAs
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Serie+A&si=ACFMAn86XkhxzOC35jo3k1ec_mUa4PwHgnEtN6tbGWMWaJ9RApRSkajSu25a5bjf56ET1PKqwY0ZRlswg_UB_D1oYmiRf2Ha2jscSDO7xIX5uM75xmwsjKPs9Ujrad_BV9fXtS4PjWzwynmKMVk1PeiJmBNGSOikl4rWft0UVy8UtnSf7NZEhe4wNoGhh66t-3P5xw7aiHTO6BOVpcAybTDFx11dqz8nlfZQxwNFVFFcyd0CEAvKKEDgpRX8M4MwItywouDQ1hW8q5p5n4nTpCVpI1EXWSrD-NLdxH_sp_ey5v83AhQMSd4%3D
+                            [image] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/a1634fad358f8b485acd48015db4d0dcec9bb6c673f3d8db54daee64f2711760db258170e0ade42ce2c1586604faf2f3.jpeg
+                        )
+
+                )
+
+            [people_also_search_for_link] => https://www.google.com/search?q=2.+Bundesliga&stick=H4sIAAAAAAAAAONgFuLUz9U3sEzLsihXQjC1BIMzU1LLEyuL_VIrSoJLUguKF7HyGukpOJXmpaQW52SmJ-5gZQQAZE4FuD4AAAA&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQMSgAegQIXRAB
+            [people_also_search_for_stick] => H4sIAAAAAAAAAONgFuLUz9U3sEzLsihXQjC1BIMzU1LLEyuL_VIrSoJLUguKF7HyGukpOJXmpaQW52SmJ-5gZQQAZE4FuD4AAAA
+        )
+
+    [inline_images] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [link] => https://www.google.com/search?q=2.+Bundesliga&tbm=isch&source=iu&ictx=1&vet=1&fir=jtg1Y9NDCN1hJM%252C8Tvsawmmm2SOkM%252C%252Fm%252F09fj8w%253BfeXsAY_evG2jVM%252Ca6inEtDXbsVzqM%252C_%253BZQ6MZ9iXf7JPTM%252CZj7GhviWpD39EM%252C_%253BGiJxfheFG4tmUM%252CxXC_gGiF_IHv9M%252C_%253B_yxA0c2JS_Q4gM%252C9bjqL6wxjiI8hM%252C_%253B6J5PbzsZEHeNnM%252C9bjqL6wxjiI8hM%252C_%253B9HRFI2g2tDhsWM%252C9bjqL6wxjiI8hM%252C_&usg=AI4_-kRSdJArhTUmLIDoCeRD-bCbO6ebdg&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ_B16BAhUEAE#imgrc=jtg1Y9NDCN1hJM
+                    [source] => https://en.wikipedia.org/wiki/2._Bundesliga
+                    [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/dd8ddb390a435450552b55ec23ffa3d12adacbfa11b689d6f4946d6815516120.png
+                    [original] => https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/2._Bundesliga_logo.svg/1200px-2._Bundesliga_logo.svg.png
+                    [title] => upload.wikimedia.org/wikipedia/en/thumb/7/7b/2._Bu...
+                    [source_name] => en.wikipedia.org
+                )
+
+            [1] => stdClass Object
+                (
+                    [link] => https://www.google.com/search?q=2.+Bundesliga&tbm=isch&source=iu&ictx=1&vet=1&fir=jtg1Y9NDCN1hJM%252C8Tvsawmmm2SOkM%252C_%253BfeXsAY_evG2jVM%252Ca6inEtDXbsVzqM%252C_%253BZQ6MZ9iXf7JPTM%252CZj7GhviWpD39EM%252C_%253BGiJxfheFG4tmUM%252CxXC_gGiF_IHv9M%252C_%253B_yxA0c2JS_Q4gM%252C9bjqL6wxjiI8hM%252C_%253B6J5PbzsZEHeNnM%252C9bjqL6wxjiI8hM%252C_%253B9HRFI2g2tDhsWM%252C9bjqL6wxjiI8hM%252C_&usg=AI4_-kQ5lImx476mtTG8E4bB8TW21v6k4w&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ_h16BAhaEAE#imgrc=feXsAY_evG2jVM
+                    [source] => https://www.espn.com/soccer/standings/_/league/ger.2
+                    [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/dd8ddb390a4354509ee4d9232e61642d97ffaffc4a1597c74c7b11b02c82fafe.jpeg
+                    [original] => https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/97.png
+                    [title] => German 2. Bundesliga Standings - 2023-24 German Bundesliga 2 ...
+                    [source_name] => ESPN
+                )
+
+            [2] => stdClass Object
+                (
+                    [link] => https://www.google.com/search?q=2.+Bundesliga&tbm=isch&source=iu&ictx=1&vet=1&fir=jtg1Y9NDCN1hJM%252C8Tvsawmmm2SOkM%252C_%253BfeXsAY_evG2jVM%252Ca6inEtDXbsVzqM%252C_%253BZQ6MZ9iXf7JPTM%252CZj7GhviWpD39EM%252C_%253BGiJxfheFG4tmUM%252CxXC_gGiF_IHv9M%252C_%253B_yxA0c2JS_Q4gM%252C9bjqL6wxjiI8hM%252C_%253B6J5PbzsZEHeNnM%252C9bjqL6wxjiI8hM%252C_%253B9HRFI2g2tDhsWM%252C9bjqL6wxjiI8hM%252C_&usg=AI4_-kQ5lImx476mtTG8E4bB8TW21v6k4w&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ_h16BAhbEAE#imgrc=ZQ6MZ9iXf7JPTM
+                    [source] => https://en.wikipedia.org/wiki/2._Frauen-Bundesliga
+                    [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/dd8ddb390a43545031be14d80a452052c84f4bc6c31f0f54dae1f472febc3d52.png
+                    [original] => https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/2._Frauen-Bundesliga_Logo.svg/800px-2._Frauen-Bundesliga_Logo.svg.png
+                    [title] => 2. Frauen-Bundesliga - Wikipedia
+                    [source_name] => Wikipedia
+                )
+
+            [3] => stdClass Object
+                (
+                    [link] => https://www.google.com/search?q=2.+Bundesliga&tbm=isch&source=iu&ictx=1&vet=1&fir=jtg1Y9NDCN1hJM%252C8Tvsawmmm2SOkM%252C_%253BfeXsAY_evG2jVM%252Ca6inEtDXbsVzqM%252C_%253BZQ6MZ9iXf7JPTM%252CZj7GhviWpD39EM%252C_%253BGiJxfheFG4tmUM%252CxXC_gGiF_IHv9M%252C_%253B_yxA0c2JS_Q4gM%252C9bjqL6wxjiI8hM%252C_%253B6J5PbzsZEHeNnM%252C9bjqL6wxjiI8hM%252C_%253B9HRFI2g2tDhsWM%252C9bjqL6wxjiI8hM%252C_&usg=AI4_-kQ5lImx476mtTG8E4bB8TW21v6k4w&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ_h16BAhZEAE#imgrc=GiJxfheFG4tmUM
+                    [source] => https://www.facebook.com/2.bundesligaUS/
+                    [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/dd8ddb390a435450aa7e648047e354a0527e3c5040bc4ea02607c7573519e809.png
+                    [original] => https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063523153731
+                    [title] => 2.Bundesliga | Los Angeles CA
+                    [source_name] => Facebook
+                )
+
+            [4] => stdClass Object
+                (
+                    [link] => https://www.google.com/search?q=2.+Bundesliga&tbm=isch&source=iu&ictx=1&vet=1&fir=jtg1Y9NDCN1hJM%252C8Tvsawmmm2SOkM%252C_%253BfeXsAY_evG2jVM%252Ca6inEtDXbsVzqM%252C_%253BZQ6MZ9iXf7JPTM%252CZj7GhviWpD39EM%252C_%253BGiJxfheFG4tmUM%252CxXC_gGiF_IHv9M%252C_%253B_yxA0c2JS_Q4gM%252C9bjqL6wxjiI8hM%252C_%253B6J5PbzsZEHeNnM%252C9bjqL6wxjiI8hM%252C_%253B9HRFI2g2tDhsWM%252C9bjqL6wxjiI8hM%252C_&usg=AI4_-kQ5lImx476mtTG8E4bB8TW21v6k4w&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ_h16BAhVEAE#imgrc=_yxA0c2JS_Q4gM
+                    [source] => https://www.bundesliga.com/en/2bundesliga
+                    [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/dd8ddb390a4354502a3901acb6b85dc1772698cff1a77486e914051516965e31.png
+                    [original] => https://www.bundesliga.com/assets/clublogo/DFL-CLU-00000P.svg
+                    [title] => 2. Bundesliga | official website
+                    [source_name] => Bundesliga
+                )
+
+            [5] => stdClass Object
+                (
+                    [link] => https://www.google.com/search?q=2.+Bundesliga&tbm=isch&source=iu&ictx=1&vet=1&fir=jtg1Y9NDCN1hJM%252C8Tvsawmmm2SOkM%252C_%253BfeXsAY_evG2jVM%252Ca6inEtDXbsVzqM%252C_%253BZQ6MZ9iXf7JPTM%252CZj7GhviWpD39EM%252C_%253BGiJxfheFG4tmUM%252CxXC_gGiF_IHv9M%252C_%253B_yxA0c2JS_Q4gM%252C9bjqL6wxjiI8hM%252C_%253B6J5PbzsZEHeNnM%252C9bjqL6wxjiI8hM%252C_%253B9HRFI2g2tDhsWM%252C9bjqL6wxjiI8hM%252C_&usg=AI4_-kQ5lImx476mtTG8E4bB8TW21v6k4w&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ_h16BAhXEAE#imgrc=6J5PbzsZEHeNnM
+                    [source] => https://www.bundesliga.com/en/2bundesliga
+                    [thumbnail] => https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeIHNAN1gOKWQRVGajYXrwvE1OeWSsXEnk3F6rx-_JKw&s
+                    [original] => https://www.bundesliga.com/assets/clublogo/DFL-CLU-00000T.svg
+                    [title] => 2. Bundesliga | official website
+                    [source_name] => Bundesliga
+                )
+
+            [6] => stdClass Object
+                (
+                    [link] => https://www.google.com/search?q=2.+Bundesliga&tbm=isch&source=iu&ictx=1&vet=1&fir=jtg1Y9NDCN1hJM%252C8Tvsawmmm2SOkM%252C_%253BfeXsAY_evG2jVM%252Ca6inEtDXbsVzqM%252C_%253BZQ6MZ9iXf7JPTM%252CZj7GhviWpD39EM%252C_%253BGiJxfheFG4tmUM%252CxXC_gGiF_IHv9M%252C_%253B_yxA0c2JS_Q4gM%252C9bjqL6wxjiI8hM%252C_%253B6J5PbzsZEHeNnM%252C9bjqL6wxjiI8hM%252C_%253B9HRFI2g2tDhsWM%252C9bjqL6wxjiI8hM%252C_&usg=AI4_-kQ5lImx476mtTG8E4bB8TW21v6k4w&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ_h16BAhYEAE#imgrc=9HRFI2g2tDhsWM
+                    [source] => https://www.bundesliga.com/en/2bundesliga
+                    [thumbnail] => https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCQusJ-aYIOyjMkr0K037MFqTHSN7zs3i2xpq0RRnYlw&s
+                    [original] => https://www.bundesliga.com/assets/clublogo/DFL-CLU-000009.svg
+                    [title] => 2. Bundesliga | official website
+                    [source_name] => Bundesliga
+                )
+
+        )
+
+    [inline_videos] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [position] => 1
+                    [title] => 8 Goal Thriller in Season Opener! | Hamburger SV - FC ...
+                    [link] => https://www.youtube.com/watch?v=8CxesD_HJEM
+                    [thumbnail] => https://i.ytimg.com/vi/8CxesD_HJEM/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kNUF_NPmdvcr0oT-cjyTaYJW6sSg
+                    [channel] => Bundesliga
+                    [platform] => YouTube
+                    [date] => 5 days ago
+                )
+
+            [1] => stdClass Object
+                (
+                    [position] => 2
+                    [title] => Crazy Goals on Matchday 1 | 1. FC Kaiserslautern - FC St ...
+                    [link] => https://www.youtube.com/watch?v=aa8lwNWb_Tk
+                    [thumbnail] => https://i.ytimg.com/vi/aa8lwNWb_Tk/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nagK0q3hz2vq8IVfX8wlYUTJoPIw
+                    [channel] => Bundesliga
+                    [platform] => YouTube
+                    [date] => 4 days ago
+                )
+
+            [2] => stdClass Object
+                (
+                    [position] => 3
+                    [title] => 1. FC Kaiserslautern – FC St. Pauli Highlights 2. Bundesliga, 1 ...
+                    [link] => https://www.youtube.com/watch?v=plG3dP-vZPY
+                    [thumbnail] => https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRifnGM6op5gK3OG2RuTOIchFM1VPuv_pxz0nBXIVCPRGH1&s
+                    [channel] => Sportschau
+                    [platform] => YouTube
+                    [date] => 3 days ago
+                )
+
+        )
+
+    [top_stories] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [title] => The whimsical chaos of the 2.Bundesliga is back – time to enjoy the ride
+                    [link] => https://theathletic.com/4732722/2023/07/31/2-bundesliga-returns-chaos/
+                    [source] => The Athletic
+                    [date] => 2 days ago
+                    [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/f2e27e33f2baecc1e4353050fda58f5294ed8e17e1c1431a.jpeg
+                )
+
+            [1] => stdClass Object
+                (
+                    [title] => Americans Abroad Weekend Rewind: Green, McKenzie, and more - SBI Soccer
+                    [link] => https://sbisoccer.com/2023/07/americans-abroad-weekend-rewind-green-mckenzie-and-more
+                    [source] => SBI Soccer
+                    [date] => 3 days ago
+                    [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/f2e27e33f2baecc18e7e4187576d05b10706728141eec5cd.jpeg
+                )
+
+        )
+
+    [top_stories_link] => https://www.google.com/search?q=2.+Bundesliga&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQt8YBKAF6BAgkEAY
+    [top_stories_serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=2.+Bundesliga&tbm=nws
+    [related_questions] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [question] => Which country is 2. Bundesliga?
+                    [title] => Germany
+                    [link] => https://en.wikipedia.org/wiki/2._Bundesliga
+                    [displayed_link] => https://en.wikipedia.org › wiki › 2._Bundesliga
+                    [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/41320a7468b718484d4d497e5086666ef954c69bf363734dacb553c48a187158.png
+                    [next_page_token] => eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TWJXNVphRXBPVm5keloxbHFWamR2TjI1eGFsTmpibXBqYVhGQ2FsUkdjMEpJZWtSUlJWRmxPVWcxYVVGNU5XeHhlVTVRVDJod1UwTlRUVmRCY2xCUWNqaElXWGd5RWhkeFVUTk1Xa3hVVUVodlMySnJaRlZRT0c5RFRHbEJPQm9pUVV4RlV6bDFUbHA1T1ZOb01sZENNMlJMUm5CaFIyMVJiSFYzWjFSWFlVWTRRUSIsImZjdiI6IjMiLCJlaSI6InFRM0xaTFRQSG9LYmtkVVA4b0NMaUE4IiwicWMiOiJDZ3d5SUdKMWJtUmxjMnhwWjJFUUFIMUlmeUlfIiwicXVlc3Rpb24iOiJXaGljaCBjb3VudHJ5IGlzIDIuIEJ1bmRlc2xpZ2E/IiwibGsiOiJHaFF5SUdKMWJtUmxjMnhwWjJFZ1kyOTFiblJ5ZVEiLCJicyI6ImMxWE5zUXJDTUJnRVlGel95VEdiTjFSUVFZZS1RR2dYZFM3U09TU19UU0JOcEUwcHZvNHY1T3F6T0JrMzNXNjQtNDRLV3JYV2FRc2RwNUNHTzl5SThvQjZDb1pIN3pvbHhidW1MUld0amVnNGpiZ05zWS1KRGE0NV9CUlJTdkVzYUVmclU1eWhWY0FaczBxWl92UGdBaTVOSmNVajBaNDJyVlhwLTVrczQ4aERuMmNONnhnTVBLdHU0Z3g1ejBhS0Y1YUxEdyIsImlkIjoiZmNfNSJ9
+                    [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TWJXNVphRXBPVm5keloxbHFWamR2TjI1eGFsTmpibXBqYVhGQ2FsUkdjMEpJZWtSUlJWRmxPVWcxYVVGNU5XeHhlVTVRVDJod1UwTlRUVmRCY2xCUWNqaElXWGd5RWhkeFVUTk1Xa3hVVUVodlMySnJaRlZRT0c5RFRHbEJPQm9pUVV4RlV6bDFUbHA1T1ZOb01sZENNMlJMUm5CaFIyMVJiSFYzWjFSWFlVWTRRUSIsImZjdiI6IjMiLCJlaSI6InFRM0xaTFRQSG9LYmtkVVA4b0NMaUE4IiwicWMiOiJDZ3d5SUdKMWJtUmxjMnhwWjJFUUFIMUlmeUlfIiwicXVlc3Rpb24iOiJXaGljaCBjb3VudHJ5IGlzIDIuIEJ1bmRlc2xpZ2E%2FIiwibGsiOiJHaFF5SUdKMWJtUmxjMnhwWjJFZ1kyOTFiblJ5ZVEiLCJicyI6ImMxWE5zUXJDTUJnRVlGel95VEdiTjFSUVFZZS1RR2dYZFM3U09TU19UU0JOcEUwcHZvNHY1T3F6T0JrMzNXNjQtNDRLV3JYV2FRc2RwNUNHTzl5SThvQjZDb1pIN3pvbHhidW1MUld0amVnNGpiZ05zWS1KRGE0NV9CUlJTdkVzYUVmclU1eWhWY0FaczBxWl92UGdBaTVOSmNVajBaNDJyVlhwLTVrczQ4aERuMmNONnhnTVBLdHU0Z3g1ejBhS0Y1YUxEdyIsImlkIjoiZmNfNSJ9
+                )
+
+            [1] => stdClass Object
+                (
+                    [question] => Who gets promoted from Bundesliga 2?
+                    [snippet] => In Germany, the teams who finish 16th in the Bundesliga and third in Bundesliga 2 contest the promotion/relegation play-off. The first leg is played at the home of the Bundesliga side and the second leg is played at the home of the Bundesliga 2 team.
+                    [title] => How does promotion and relegation work in the Bundesliga?
+                    [link] => https://www.bundesliga.com/en/faq/what-are-the-rules-and-regulations-of-soccer/how-does-promotion-and-relegation-work-in-the-bundesliga-10645#:~:text=In%20Germany%2C%20the%20teams%20who,of%20the%20Bundesliga%202%20team.
+                    [displayed_link] => https://www.bundesliga.com › faq › how-does-promotio...
+                    [thumbnail] => https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9xt-i1UcgXLIQb-aIcfGqRzrJwfl8cWvB6ozIkURBw&s
+                    [next_page_token] => eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TWJXNVphRXBPVm5keloxbHFWamR2TjI1eGFsTmpibXBqYVhGQ2FsUkdjMEpJZWtSUlJWRmxPVWcxYVVGNU5XeHhlVTVRVDJod1UwTlRUVmRCY2xCUWNqaElXWGd5RWhkeFVUTk1Xa3hVVUVodlMySnJaRlZRT0c5RFRHbEJPQm9pUVV4RlV6bDFUbHA1T1ZOb01sZENNMlJMUm5CaFIyMVJiSFYzWjFSWFlVWTRRUSIsImZjdiI6IjMiLCJlaSI6InFRM0xaTFRQSG9LYmtkVVA4b0NMaUE4IiwicWMiOiJDZ3d5SUdKMWJtUmxjMnhwWjJFUUFIMUlmeUlfIiwicXVlc3Rpb24iOiJXaG8gZ2V0cyBwcm9tb3RlZCBmcm9tIEJ1bmRlc2xpZ2EgMj8iLCJsayI6IkdpTjNhRzhnWjJWMGN5QndjbTl0YjNSbFpDQm1jbTl0SUdKMWJtUmxjMnhwWjJFZ01nIiwiYnMiOiJjMVhOc1FyQ01CZ0VZRnpfeVRHYk4xUlFRWWUtUUdnWGRTN1NPU1NfVFNCTnBFMHB2bzR2NU9xek9CazMzVzY0LTQ0S1dyWFdhUXNkcDVDR085eUk4b0I2Q29aSDd6b2x4YnVtTFJXdGplZzRqYmdOc1ktSkRhNDVfQlJSU3ZFc2FFZnJVNXloVmNBWnMwcVpfdlBnQWk1TkpjVWowWjQyclZYcC01a3M0OGhEbjJjTjZ4Z01QS3R1NGd4NXowYUtGNWFMRHciLCJpZCI6ImZjXzUifQ==
+                    [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TWJXNVphRXBPVm5keloxbHFWamR2TjI1eGFsTmpibXBqYVhGQ2FsUkdjMEpJZWtSUlJWRmxPVWcxYVVGNU5XeHhlVTVRVDJod1UwTlRUVmRCY2xCUWNqaElXWGd5RWhkeFVUTk1Xa3hVVUVodlMySnJaRlZRT0c5RFRHbEJPQm9pUVV4RlV6bDFUbHA1T1ZOb01sZENNMlJMUm5CaFIyMVJiSFYzWjFSWFlVWTRRUSIsImZjdiI6IjMiLCJlaSI6InFRM0xaTFRQSG9LYmtkVVA4b0NMaUE4IiwicWMiOiJDZ3d5SUdKMWJtUmxjMnhwWjJFUUFIMUlmeUlfIiwicXVlc3Rpb24iOiJXaG8gZ2V0cyBwcm9tb3RlZCBmcm9tIEJ1bmRlc2xpZ2EgMj8iLCJsayI6IkdpTjNhRzhnWjJWMGN5QndjbTl0YjNSbFpDQm1jbTl0SUdKMWJtUmxjMnhwWjJFZ01nIiwiYnMiOiJjMVhOc1FyQ01CZ0VZRnpfeVRHYk4xUlFRWWUtUUdnWGRTN1NPU1NfVFNCTnBFMHB2bzR2NU9xek9CazMzVzY0LTQ0S1dyWFdhUXNkcDVDR085eUk4b0I2Q29aSDd6b2x4YnVtTFJXdGplZzRqYmdOc1ktSkRhNDVfQlJSU3ZFc2FFZnJVNXloVmNBWnMwcVpfdlBnQWk1TkpjVWowWjQyclZYcC01a3M0OGhEbjJjTjZ4Z01QS3R1NGd4NXowYUtGNWFMRHciLCJpZCI6ImZjXzUifQ%3D%3D
+                )
+
+            [2] => stdClass Object
+                (
+                    [question] => How can I watch 2. Bundesliga in USA?
+                    [snippet] => Bundesliga 2 is Germany's second division. Bundesliga 2 is shown on BT Sport in the UK and ESPN+ in the US. You can also stream it on fuboTV.
+                    [title] => How to watch Bundesliga live in the USA (2023) - Cybernews
+                    [date] => Jun 29, 2023
+                    [link] => https://cybernews.com/stream-online/how-to-watch-bundesliga-in-usa/#:~:text=Bundesliga%202%20is%20Germany's%20second%20division.&text=Bundesliga%202%20is%20shown%20on,also%20stream%20it%20on%20fuboTV.
+                    [displayed_link] => https://cybernews.com › stream-online › how-to-watch-b...
+                    [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/41320a7468b718484d4d497e5086666e60545f09d59a05d6e52d3e1039616cc5.png
+                    [next_page_token] => eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TWJXNVphRXBPVm5keloxbHFWamR2TjI1eGFsTmpibXBqYVhGQ2FsUkdjMEpJZWtSUlJWRmxPVWcxYVVGNU5XeHhlVTVRVDJod1UwTlRUVmRCY2xCUWNqaElXWGd5RWhkeFVUTk1Xa3hVVUVodlMySnJaRlZRT0c5RFRHbEJPQm9pUVV4RlV6bDFUbHA1T1ZOb01sZENNMlJMUm5CaFIyMVJiSFYzWjFSWFlVWTRRUSIsImZjdiI6IjMiLCJlaSI6InFRM0xaTFRQSG9LYmtkVVA4b0NMaUE4IiwicWMiOiJDZ3d5SUdKMWJtUmxjMnhwWjJFUUFIMUlmeUlfIiwicXVlc3Rpb24iOiJIb3cgY2FuIEkgd2F0Y2ggMi4gQnVuZGVzbGlnYSBpbiBVU0E/IiwibGsiOiJHaUJvYjNjZ2RHOGdkMkYwWTJnZ01pQmlkVzVrWlhOc2FXZGhJR2x1SUhWellRIiwiYnMiOiJjMVhOc1FyQ01CZ0VZRnpfeVRHYk4xUlFRWWUtUUdnWGRTN1NPU1NfVFNCTnBFMHB2bzR2NU9xek9CazMzVzY0LTQ0S1dyWFdhUXNkcDVDR085eUk4b0I2Q29aSDd6b2x4YnVtTFJXdGplZzRqYmdOc1ktSkRhNDVfQlJSU3ZFc2FFZnJVNXloVmNBWnMwcVpfdlBnQWk1TkpjVWowWjQyclZYcC01a3M0OGhEbjJjTjZ4Z01QS3R1NGd4NXowYUtGNWFMRHciLCJpZCI6ImZjXzUifQ==
+                    [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TWJXNVphRXBPVm5keloxbHFWamR2TjI1eGFsTmpibXBqYVhGQ2FsUkdjMEpJZWtSUlJWRmxPVWcxYVVGNU5XeHhlVTVRVDJod1UwTlRUVmRCY2xCUWNqaElXWGd5RWhkeFVUTk1Xa3hVVUVodlMySnJaRlZRT0c5RFRHbEJPQm9pUVV4RlV6bDFUbHA1T1ZOb01sZENNMlJMUm5CaFIyMVJiSFYzWjFSWFlVWTRRUSIsImZjdiI6IjMiLCJlaSI6InFRM0xaTFRQSG9LYmtkVVA4b0NMaUE4IiwicWMiOiJDZ3d5SUdKMWJtUmxjMnhwWjJFUUFIMUlmeUlfIiwicXVlc3Rpb24iOiJIb3cgY2FuIEkgd2F0Y2ggMi4gQnVuZGVzbGlnYSBpbiBVU0E%2FIiwibGsiOiJHaUJvYjNjZ2RHOGdkMkYwWTJnZ01pQmlkVzVrWlhOc2FXZGhJR2x1SUhWellRIiwiYnMiOiJjMVhOc1FyQ01CZ0VZRnpfeVRHYk4xUlFRWWUtUUdnWGRTN1NPU1NfVFNCTnBFMHB2bzR2NU9xek9CazMzVzY0LTQ0S1dyWFdhUXNkcDVDR085eUk4b0I2Q29aSDd6b2x4YnVtTFJXdGplZzRqYmdOc1ktSkRhNDVfQlJSU3ZFc2FFZnJVNXloVmNBWnMwcVpfdlBnQWk1TkpjVWowWjQyclZYcC01a3M0OGhEbjJjTjZ4Z01QS3R1NGd4NXowYUtGNWFMRHciLCJpZCI6ImZjXzUifQ%3D%3D
+                )
+
+            [3] => stdClass Object
+                (
+                    [question] => What is the German Second league called?
+                    [snippet] => 2. Bundesliga | Table | 2023-2024.
+                    [title] => Table | 2023-2024 - 2. Bundesliga
+                    [link] => https://www.bundesliga.com/en/2bundesliga/table#:~:text=2.,Bundesliga%20%7C%20Table%20%7C%202023%2D2024
+                    [displayed_link] => https://www.bundesliga.com › 2bundesliga › table
+                    [thumbnail] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/41320a7468b718484d4d497e5086666e5b2bc7f1f6dc5719c442e5242ceac907.png
+                    [next_page_token] => eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TWJXNVphRXBPVm5keloxbHFWamR2TjI1eGFsTmpibXBqYVhGQ2FsUkdjMEpJZWtSUlJWRmxPVWcxYVVGNU5XeHhlVTVRVDJod1UwTlRUVmRCY2xCUWNqaElXWGd5RWhkeFVUTk1Xa3hVVUVodlMySnJaRlZRT0c5RFRHbEJPQm9pUVV4RlV6bDFUbHA1T1ZOb01sZENNMlJMUm5CaFIyMVJiSFYzWjFSWFlVWTRRUSIsImZjdiI6IjMiLCJlaSI6InFRM0xaTFRQSG9LYmtkVVA4b0NMaUE4IiwicWMiOiJDZ3d5SUdKMWJtUmxjMnhwWjJFUUFIMUlmeUlfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBHZXJtYW4gU2Vjb25kIGxlYWd1ZSBjYWxsZWQ/IiwibGsiOiJHaWQzYUdGMElHbHpJSFJvWlNCblpYSnRZVzRnYzJWamIyNWtJR3hsWVdkMVpTQmpZV3hzWldRIiwiYnMiOiJjMVhOc1FyQ01CZ0VZRnpfeVRHYk4xUlFRWWUtUUdnWGRTN1NPU1NfVFNCTnBFMHB2bzR2NU9xek9CazMzVzY0LTQ0S1dyWFdhUXNkcDVDR085eUk4b0I2Q29aSDd6b2x4YnVtTFJXdGplZzRqYmdOc1ktSkRhNDVfQlJSU3ZFc2FFZnJVNXloVmNBWnMwcVpfdlBnQWk1TkpjVWowWjQyclZYcC01a3M0OGhEbjJjTjZ4Z01QS3R1NGd4NXowYUtGNWFMRHciLCJpZCI6ImZjXzUifQ==
+                    [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TWJXNVphRXBPVm5keloxbHFWamR2TjI1eGFsTmpibXBqYVhGQ2FsUkdjMEpJZWtSUlJWRmxPVWcxYVVGNU5XeHhlVTVRVDJod1UwTlRUVmRCY2xCUWNqaElXWGd5RWhkeFVUTk1Xa3hVVUVodlMySnJaRlZRT0c5RFRHbEJPQm9pUVV4RlV6bDFUbHA1T1ZOb01sZENNMlJMUm5CaFIyMVJiSFYzWjFSWFlVWTRRUSIsImZjdiI6IjMiLCJlaSI6InFRM0xaTFRQSG9LYmtkVVA4b0NMaUE4IiwicWMiOiJDZ3d5SUdKMWJtUmxjMnhwWjJFUUFIMUlmeUlfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBHZXJtYW4gU2Vjb25kIGxlYWd1ZSBjYWxsZWQ%2FIiwibGsiOiJHaWQzYUdGMElHbHpJSFJvWlNCblpYSnRZVzRnYzJWamIyNWtJR3hsWVdkMVpTQmpZV3hzWldRIiwiYnMiOiJjMVhOc1FyQ01CZ0VZRnpfeVRHYk4xUlFRWWUtUUdnWGRTN1NPU1NfVFNCTnBFMHB2bzR2NU9xek9CazMzVzY0LTQ0S1dyWFdhUXNkcDVDR085eUk4b0I2Q29aSDd6b2x4YnVtTFJXdGplZzRqYmdOc1ktSkRhNDVfQlJSU3ZFc2FFZnJVNXloVmNBWnMwcVpfdlBnQWk1TkpjVWowWjQyclZYcC01a3M0OGhEbjJjTjZ4Z01QS3R1NGd4NXowYUtGNWFMRHciLCJpZCI6ImZjXzUifQ%3D%3D
+                )
+
+        )
+
+    [organic_results] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [position] => 1
+                    [title] => 2. Bundesliga | official website
+                    [link] => https://www.bundesliga.com/en/2bundesliga
+                    [displayed_link] => https://www.bundesliga.com › 2bundesliga
+                    [favicon] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/64d7c618d2c85ae326dd1290935e455684a1f004315da23a1f22341bdba060c8.png
+                    [snippet] => The official Bundesliga website. The latest news, info and stats for clubs in 2023-2024 can be found here.
+                    [snippet_highlighted_words] => Array
+                        (
+                            [0] => Bundesliga
+                        )
+
+                    [sitelinks] => stdClass Object
+                        (
+                            [inline] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [title] => The new Bundesliga 2 jerseys
+                                            [link] => https://www.bundesliga.com/en/2bundesliga/news/new-jerseys-home-away-2023-24-season-hamburg-schalke-buy-online-23855
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [title] => Bundesliga 2 records
+                                            [link] => https://www.bundesliga.com/en/2bundesliga/news/bundesliga2-records-goals-promotion-relegation-players-and-clubs-16921
+                                        )
+
+                                )
+
+                        )
+
+                    [about_this_result] => stdClass Object
+                        (
+                            [keywords] => Array
+                                (
+                                    [0] => 2
+                                    [1] => bundesliga
+                                )
+
+                            [related_keywords] => Array
+                                (
+                                    [0] => 2bundesliga
+                                )
+
+                            [languages] => Array
+                                (
+                                    [0] => English
+                                )
+
+                            [regions] => Array
+                                (
+                                    [0] => United States
+                                )
+
+                        )
+
+                    [cached_page_link] => https://webcache.googleusercontent.com/search?q=cache:9bjqL6wxjiIJ:https://www.bundesliga.com/en/2bundesliga&cd=11&hl=en&ct=clnk&gl=us
+                    [source] => Bundesliga
+                    [related_results] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [position] => 1
+                                    [title] => 2. Bundesliga | Table | 2023-2024
+                                    [link] => https://www.bundesliga.com/en/2bundesliga/table
+                                    [displayed_link] => https://www.bundesliga.com › 2bundesliga › table
+                                    [snippet] => The Bundesliga table with current points, goals, home record, away record, form.
+                                    [snippet_highlighted_words] => Array
+                                        (
+                                            [0] => Bundesliga
+                                        )
+
+                                    [about_this_result] => stdClass Object
+                                        (
+                                            [keywords] => Array
+                                                (
+                                                    [0] => 2
+                                                    [1] => bundesliga
+                                                )
+
+                                            [related_keywords] => Array
+                                                (
+                                                    [0] => 2bundesliga
+                                                )
+
+                                            [languages] => Array
+                                                (
+                                                    [0] => English
+                                                )
+
+                                            [regions] => Array
+                                                (
+                                                    [0] => United States
+                                                )
+
+                                        )
+
+                                    [cached_page_link] => https://webcache.googleusercontent.com/search?q=cache:WYhh3E5afOEJ:https://www.bundesliga.com/en/2bundesliga/table&cd=12&hl=en&ct=clnk&gl=us
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [position] => 2
+                                    [title] => Clubs - 2. Bundesliga
+                                    [link] => https://www.bundesliga.com/en/2bundesliga/clubs
+                                    [displayed_link] => https://www.bundesliga.com › 2bundesliga › clubs
+                                    [snippet] => The club overview of Bundesliga teams with complete information, news and statistics. ... Official BUNDESLIGA App. The best live experience.
+                                    [snippet_highlighted_words] => Array
+                                        (
+                                            [0] => Bundesliga
+                                            [1] => BUNDESLIGA
+                                        )
+
+                                    [about_this_result] => stdClass Object
+                                        (
+                                            [keywords] => Array
+                                                (
+                                                    [0] => 2
+                                                    [1] => bundesliga
+                                                )
+
+                                            [related_keywords] => Array
+                                                (
+                                                    [0] => 2bundesliga
+                                                )
+
+                                            [languages] => Array
+                                                (
+                                                    [0] => English
+                                                )
+
+                                            [regions] => Array
+                                                (
+                                                    [0] => United States
+                                                )
+
+                                        )
+
+                                    [cached_page_link] => https://webcache.googleusercontent.com/search?q=cache:bE9q2RxKqycJ:https://www.bundesliga.com/en/2bundesliga/clubs&cd=13&hl=en&ct=clnk&gl=us
+                                )
+
+                        )
+
+                )
+
+            [1] => stdClass Object
+                (
+                    [position] => 2
+                    [title] => 2. Bundesliga
+                    [link] => https://en.wikipedia.org/wiki/2._Bundesliga
+                    [displayed_link] => https://en.wikipedia.org › wiki › 2._Bundesliga
+                    [favicon] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/64d7c618d2c85ae326dd1290935e4556d001a7311e7e2cc2dcca913dc3ebef63.png
+                    [snippet] => The 2. Bundesliga is the second division of professional football in Germany. It was implemented 11 years after the founding of the Fußball-Bundesliga as ...
+                    [snippet_highlighted_words] => Array
+                        (
+                            [0] => 2
+                            [1] => Bundesliga
+                        )
+
+                    [sitelinks] => stdClass Object
+                        (
+                            [inline] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [title] => 2021–22 2. Bundesliga
+                                            [link] => https://en.wikipedia.org/wiki/2021%E2%80%9322_2._Bundesliga
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [title] => 2022–23 2. Bundesliga
+                                            [link] => https://en.wikipedia.org/wiki/2022%E2%80%9323_2._Bundesliga
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [title] => 2017–18 2. Bundesliga
+                                            [link] => https://en.wikipedia.org/wiki/2017%E2%80%9318_2._Bundesliga
+                                        )
+
+                                )
+
+                        )
+
+                    [rich_snippet] => stdClass Object
+                        (
+                            [bottom] => stdClass Object
+                                (
+                                    [detected_extensions] => stdClass Object
+                                        (
+                                            [relegation_to_liga] => 
+                                            [number_of_teams] => 18
+                                        )
+
+                                    [extensions] => Array
+                                        (
+                                            [0] => Relegation to: 3. Liga
+                                            [1] => Country: Germany
+                                            [2] => International cup(s): UEFA Europa League ...‎
+                                            [3] => Number of teams: 18
+                                        )
+
+                                )
+
+                        )
+
+                    [about_this_result] => stdClass Object
+                        (
+                            [keywords] => Array
+                                (
+                                    [0] => 2
+                                    [1] => bundesliga
+                                )
+
+                            [languages] => Array
+                                (
+                                    [0] => English
+                                )
+
+                            [regions] => Array
+                                (
+                                    [0] => United States
+                                )
+
+                        )
+
+                    [cached_page_link] => https://webcache.googleusercontent.com/search?q=cache:8Tvsawmmm2QJ:https://en.wikipedia.org/wiki/2._Bundesliga&cd=26&hl=en&ct=clnk&gl=us
+                    [related_pages_link] => https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/2._Bundesliga+2.+Bundesliga
+                    [source] => Wikipedia
+                )
+
+            [2] => stdClass Object
+                (
+                    [position] => 3
+                    [title] => German 2. Bundesliga Table 2023-24
+                    [link] => https://www.espn.com/soccer/standings/_/league/ger.2
+                    [displayed_link] => https://www.espn.com › standings › league › ger.2
+                    [favicon] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/64d7c618d2c85ae326dd1290935e45561d3737a349d0fb7320d12c51a063c661.png
+                    [snippet] => Follow all the latest German 2. Bundesliga football news, fixtures, stats, and more on ESPN.
+                    [snippet_highlighted_words] => Array
+                        (
+                            [0] => 2
+                            [1] => Bundesliga
+                        )
+
+                    [about_this_result] => stdClass Object
+                        (
+                            [keywords] => Array
+                                (
+                                    [0] => 2
+                                    [1] => bundesliga
+                                )
+
+                            [languages] => Array
+                                (
+                                    [0] => English
+                                )
+
+                            [regions] => Array
+                                (
+                                    [0] => United States
+                                )
+
+                        )
+
+                    [cached_page_link] => https://webcache.googleusercontent.com/search?q=cache:a6inEtDXbsUJ:https://www.espn.com/soccer/standings/_/league/ger.2&cd=27&hl=en&ct=clnk&gl=us
+                    [rich_snippet_table] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [gp] => 1
+                                    [w] => 1
+                                    [d] => 0
+                                    [l] => 0
+                                    [f] => 5
+                                    [a] => 0
+                                    [gd] => +5
+                                    [p] => 3
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [gp] => 1
+                                    [w] => 1
+                                    [d] => 0
+                                    [l] => 0
+                                    [f] => 5
+                                    [a] => 3
+                                    [gd] => +2
+                                    [p] => 3
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [gp] => 1
+                                    [w] => 1
+                                    [d] => 0
+                                    [l] => 0
+                                    [f] => 2
+                                    [a] => 0
+                                    [gd] => +2
+                                    [p] => 3
+                                )
+
+                        )
+
+                    [source] => ESPN
+                    [related_results] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [position] => 1
+                                    [title] => German 2. Bundesliga News, Stats, Scores
+                                    [link] => https://www.espn.com/soccer/league/_/name/ger.2
+                                    [displayed_link] => https://www.espn.com › soccer › league › name › ger.2
+                                    [snippet] => Follow all the latest German 2. Bundesliga football news, fixtures, stats, and more on ESPN.
+                                    [snippet_highlighted_words] => Array
+                                        (
+                                            [0] => 2
+                                            [1] => Bundesliga
+                                        )
+
+                                    [about_this_result] => stdClass Object
+                                        (
+                                            [keywords] => Array
+                                                (
+                                                    [0] => 2
+                                                    [1] => bundesliga
+                                                )
+
+                                            [languages] => Array
+                                                (
+                                                    [0] => English
+                                                )
+
+                                            [regions] => Array
+                                                (
+                                                    [0] => United States
+                                                )
+
+                                        )
+
+                                    [cached_page_link] => https://webcache.googleusercontent.com/search?q=cache:CmwkcIw0wZ0J:https://www.espn.com/soccer/league/_/name/ger.2&cd=28&hl=en&ct=clnk&gl=us
+                                )
+
+                        )
+
+                )
+
+            [3] => stdClass Object
+                (
+                    [position] => 4
+                    [title] => 2. Bundesliga 2023/2024 stats, Football - Germany
+                    [link] => https://www.betexplorer.com/football/germany/2-bundesliga/
+                    [displayed_link] => https://www.betexplorer.com › football › 2-bundesliga
+                    [favicon] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/64d7c618d2c85ae326dd1290935e45561501e5de909e2cbd1af4bebfada49dd9.png
+                    [snippet] => 2. Bundesliga 2023/2024 results, tables, fixtures, and other stats for 2. Bundesliga 2023/2024. Compare teams, find the best odds and browse through archive ...
+                    [snippet_highlighted_words] => Array
+                        (
+                            [0] => 2
+                            [1] => Bundesliga
+                            [2] => 2
+                            [3] => Bundesliga
+                        )
+
+                    [about_this_result] => stdClass Object
+                        (
+                            [keywords] => Array
+                                (
+                                    [0] => 2
+                                    [1] => bundesliga
+                                )
+
+                            [languages] => Array
+                                (
+                                    [0] => English
+                                )
+
+                            [regions] => Array
+                                (
+                                    [0] => United States
+                                )
+
+                        )
+
+                    [cached_page_link] => https://webcache.googleusercontent.com/search?q=cache:uZDVhempfbwJ:https://www.betexplorer.com/football/germany/2-bundesliga/&cd=29&hl=en&ct=clnk&gl=us
+                    [source] => Betexplorer
+                )
+
+            [4] => stdClass Object
+                (
+                    [position] => 5
+                    [title] => 2. Bundesliga 2023/2024 scores, live results, standings
+                    [link] => https://www.flashscore.com/football/germany/2-bundesliga/
+                    [displayed_link] => https://www.flashscore.com › football › germany › 2-...
+                    [favicon] => https://serpapi.com/searches/64cb0da8629a01c4b73e57f2/images/64d7c618d2c85ae326dd1290935e45567ee1326e488780460bb3f662729eaeac.png
+                    [snippet] => Bundesliga 2023/2024 live scores page in Football/Germany section. Flashscore.com offers 2. Bundesliga 2023/2024 livescore, final and partial results, 2.
+                    [snippet_highlighted_words] => Array
+                        (
+                            [0] => 2
+                            [1] => Bundesliga
+                        )
+
+                    [about_this_result] => stdClass Object
+                        (
+                            [keywords] => Array
+                                (
+                                    [0] => 2
+                                    [1] => bundesliga
+                                )
+
+                            [languages] => Array
+                                (
+                                    [0] => English
+                                )
+
+                            [regions] => Array
+                                (
+                                    [0] => United States
+                                )
+
+                        )
+
+                    [cached_page_link] => https://webcache.googleusercontent.com/search?q=cache:OUPSN3HWXSQJ:https://www.flashscore.com/football/germany/2-bundesliga/&cd=30&hl=en&ct=clnk&gl=us
+                    [source] => Flashscore.com
+                )
+
+        )
+
+    [related_searches] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [query] => bundesliga 4
+                    [link] => https://www.google.com/search?q=Bundesliga+4&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ1QJ6BAguEAE
+                )
+
+            [1] => stdClass Object
+                (
+                    [query] => bundesliga playoffs
+                    [link] => https://www.google.com/search?q=Bundesliga+Playoffs&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ1QJ6BAgsEAE
+                )
+
+            [2] => stdClass Object
+                (
+                    [query] => bundesliga 3 table
+                    [link] => https://www.google.com/search?q=Bundesliga+3+table&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ1QJ6BAgqEAE
+                )
+
+            [3] => stdClass Object
+                (
+                    [query] => bundesliga relegation playoff
+                    [link] => https://www.google.com/search?q=Bundesliga+relegation+playoff&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ1QJ6BAgmEAE
+                )
+
+            [4] => stdClass Object
+                (
+                    [query] => la liga 2
+                    [link] => https://www.google.com/search?q=La+Liga+2&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ1QJ6BAglEAE
+                )
+
+            [5] => stdClass Object
+                (
+                    [query] => bundesliga 4 table
+                    [link] => https://www.google.com/search?q=Bundesliga+4+table&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ1QJ6BAgjEAE
+                )
+
+            [6] => stdClass Object
+                (
+                    [query] => bundesliga fixtures
+                    [link] => https://www.google.com/search?q=Bundesliga+fixtures&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ1QJ6BAgiEAE
+                )
+
+            [7] => stdClass Object
+                (
+                    [query] => ligue 2
+                    [link] => https://www.google.com/search?q=Ligue+2&sa=X&ved=2ahUKEwj0x97Jtb-AAxWCTaQEHXLAAvEQ1QJ6BAggEAE
+                )
+
+        )
+
+    [pagination] => stdClass Object
+        (
+            [current] => 1
+            [next] => https://www.google.com/search?q=2.+Bundesliga&oq=2.+Bundesliga&start=10&sourceid=chrome&ie=UTF-8
+            [other_pages] => stdClass Object
+                (
+                    [2] => https://www.google.com/search?q=2.+Bundesliga&oq=2.+Bundesliga&start=10&sourceid=chrome&ie=UTF-8
+                    [3] => https://www.google.com/search?q=2.+Bundesliga&oq=2.+Bundesliga&start=20&sourceid=chrome&ie=UTF-8
+                    [4] => https://www.google.com/search?q=2.+Bundesliga&oq=2.+Bundesliga&start=30&sourceid=chrome&ie=UTF-8
+                    [5] => https://www.google.com/search?q=2.+Bundesliga&oq=2.+Bundesliga&start=40&sourceid=chrome&ie=UTF-8
+                )
+
+        )
+
+    [serpapi_pagination] => stdClass Object
+        (
+            [current] => 1
+            [next_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=2.+Bundesliga&start=10
+            [next] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=2.+Bundesliga&start=10
+            [other_pages] => stdClass Object
+                (
+                    [2] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=2.+Bundesliga&start=10
+                    [3] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=2.+Bundesliga&start=20
+                    [4] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=2.+Bundesliga&start=30
+                    [5] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=2.+Bundesliga&start=40
+                )
+
+        )
+
+)
+

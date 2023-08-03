@@ -1,0 +1,834 @@
+stdClass Object
+(
+    [search_metadata] => stdClass Object
+        (
+            [id] => 64cb0c8ce4a23de1e2f58664
+            [status] => Success
+            [json_endpoint] => https://serpapi.com/searches/fa85fd15b00e1e0f/64cb0c8ce4a23de1e2f58664.json
+            [created_at] => 2023-08-03 02:10:20 UTC
+            [processed_at] => 2023-08-03 02:10:20 UTC
+            [google_url] => https://www.google.com/search?q=equipo+segunda+division+alemania&oq=equipo+segunda+division+alemania&sourceid=chrome&ie=UTF-8
+            [raw_html_file] => https://serpapi.com/searches/fa85fd15b00e1e0f/64cb0c8ce4a23de1e2f58664.html
+            [total_time_taken] => 1.95
+        )
+
+    [search_parameters] => stdClass Object
+        (
+            [engine] => google
+            [q] => equipo segunda division alemania
+            [google_domain] => google.com
+            [device] => desktop
+        )
+
+    [search_information] => stdClass Object
+        (
+            [organic_results_state] => Results for exact spelling
+            [query_displayed] => equipo segunda division alemania
+            [total_results] => 29200000
+            [time_taken_displayed] => 0.42
+            [menu_items] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [position] => 1
+                            [title] => News
+                            [link] => https://www.google.com/search?q=equipo+segunda+division+alemania&tbm=nws&source=lnms&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQ0pQJegQIChAB
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=equipo+segunda+division+alemania&tbm=nws
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [position] => 2
+                            [title] => Images
+                            [link] => https://www.google.com/search?q=equipo+segunda+division+alemania&tbm=isch&source=lnms&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQ0pQJegQICxAB
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=equipo+segunda+division+alemania
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [position] => 3
+                            [title] => Videos
+                            [link] => https://www.google.com/search?q=equipo+segunda+division+alemania&tbm=vid&source=lnms&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQ0pQJegQICRAB
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=equipo+segunda+division+alemania
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [position] => 4
+                            [title] => Maps
+                            [link] => https://maps.google.com/maps?output=search&q=equipo+segunda+division+alemania&source=lnms&entry=mc&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQ0pQJegQIBxAB
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [position] => 5
+                            [title] => Books
+                            [link] => https://www.google.com/search?q=equipo+segunda+division+alemania&tbm=bks&source=lnms&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQ0pQJegQIThAB
+                        )
+
+                    [5] => stdClass Object
+                        (
+                            [position] => 6
+                            [title] => Shopping
+                            [link] => https://www.google.com/search?q=equipo+segunda+division+alemania&tbm=shop&source=lnms&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQ0pQJegQITBAB
+                            [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=equipo+segunda+division+alemania
+                        )
+
+                    [6] => stdClass Object
+                        (
+                            [position] => 7
+                            [title] => Flights
+                            [link] => https://www.google.com/travel/flights?output=search&q=equipo+segunda+division+alemania&source=lnms&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQ0pQJegQITRAB
+                        )
+
+                    [7] => stdClass Object
+                        (
+                            [position] => 8
+                            [title] => Finance
+                            [link] => https://www.google.com/finance?output=search&q=equipo+segunda+division+alemania&source=lnms&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQ0pQJegQITxAB
+                        )
+
+                )
+
+        )
+
+    [inline_people_also_search_for] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [title] => equipos de la bundesliga 2
+                    [items] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [name] => Hamburger SV
+                                    [image] => https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI_PYkEORRFEhAnKeI3cZn4CgZ5BtncpNhp64G&s=0
+                                    [link] => https://www.google.com/search?q=Hamburger+SV&stick=H4sIAAAAAAAAAOOQUeLUz9U3MMotyMkykkotLM0syC9WSElVyElUSCrNS0ktzslMT1QwilKAyCkUp6YDhRMVUjLLMosz8_MUEnNScxPzMhNPMSJMgrKNc5LMzaBsMwvLnHQo29KgqiQDyjbNKTYuguktMynLOcXIBWYX5RWWwTQnFZWYJcE1F5rkwcSzDc2zfzHicXcDC-MiVh6PxNyk0qL01CKF4LBbbJIMt1b0qCQqPFJQemFUurCyVMZXrnKCnKKQKgByXEkYDwEAAA&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQs9oBKAB6BAg7EAI
+                                    [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hamburger+SV&stick=H4sIAAAAAAAAAOOQUeLUz9U3MMotyMkykkotLM0syC9WSElVyElUSCrNS0ktzslMT1QwilKAyCkUp6YDhRMVUjLLMosz8_MUEnNScxPzMhNPMSJMgrKNc5LMzaBsMwvLnHQo29KgqiQDyjbNKTYuguktMynLOcXIBWYX5RWWwTQnFZWYJcE1F5rkwcSzDc2zfzHicXcDC-MiVh6PxNyk0qL01CKF4LBbbJIMt1b0qCQqPFJQemFUurCyVMZXrnKCnKKQKgByXEkYDwEAAA
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [name] => FC St. Pauli
+                                    [image] => https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSeGqsxJaKghxS1Aa2nRBvmO9d7jIk5a6zvgJD&s=0
+                                    [link] => https://www.google.com/search?q=FC+St.+Pauli&stick=H4sIAAAAAAAAAOOQUeLUz9U3MM5JMjczkkotLM0syC9WSElVyElUSCrNS0ktzslMT1QwilKAyCkUp6YDhRMVUjLLMosz8_MUEnNScxPzMhNPMYJNMsotyMmCssGmQtlmFpY56VC2pUFVSQaUbZpTbFwE01tmUpZzipELzC7KKyyDaU4qKjFLgmsuNMmDiWcbmmf_YsTj7gYWxkWsPG7OCsElegoBiaU5mbfYJBlurehRSVR4pKD0wqh0YWWpjK9c5QQ5RSFVAMmjFQ8PAQAA&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQs9oBKAF6BAg7EAM
+                                    [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FC+St.+Pauli&stick=H4sIAAAAAAAAAOOQUeLUz9U3MM5JMjczkkotLM0syC9WSElVyElUSCrNS0ktzslMT1QwilKAyCkUp6YDhRMVUjLLMosz8_MUEnNScxPzMhNPMYJNMsotyMmCssGmQtlmFpY56VC2pUFVSQaUbZpTbFwE01tmUpZzipELzC7KKyyDaU4qKjFLgmsuNMmDiWcbmmf_YsTj7gYWxkWsPG7OCsElegoBiaU5mbfYJBlurehRSVR4pKD0wqh0YWWpjK9c5QQ5RSFVAMmjFQ8PAQAA
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [name] => Fortuna Düsseldorf
+                                    [image] => https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY88kc4fYxz_es5j6cfpMfRqRpqoABOv7eDhud&s=0
+                                    [link] => https://www.google.com/search?q=Fortuna+D%C3%BCsseldorf&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLOwzEk3kkotLM0syC9WSElVyElUSCrNS0ktzslMT1QwilKAyCkUp6YDhRMVUjLLMosz8_MUEnNScxPzMhNPMYJNMsotyMmCso1zkszNoGywDVC2pUFVSQaUbZpTbFwE01tmUpZzipELzC7KKyyDaU4qKjFLgmsuNMmDiWcbmmf_YsTj7gYWxkWswm75RSWleYkKLof3FBen5qTkF6XdYpNkuLWiRyVR4ZGC0guj0oWVpTK-cpUT5BSFVAEFzR3bFgEAAA&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQs9oBKAJ6BAg7EAQ
+                                    [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fortuna+D%C3%BCsseldorf&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLOwzEk3kkotLM0syC9WSElVyElUSCrNS0ktzslMT1QwilKAyCkUp6YDhRMVUjLLMosz8_MUEnNScxPzMhNPMYJNMsotyMmCso1zkszNoGywDVC2pUFVSQaUbZpTbFwE01tmUpZzipELzC7KKyyDaU4qKjFLgmsuNMmDiWcbmmf_YsTj7gYWxkWswm75RSWleYkKLof3FBen5qTkF6XdYpNkuLWiRyVR4ZGC0guj0oWVpTK-cpUT5BSFVAEFzR3bFgEAAA
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [name] => SpVgg Greuther Fürth
+                                    [image] => https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZa_6IF8aUAm6DCIJ87lOH9Rb7oN9PTjEL2CHU&s=0
+                                    [link] => https://www.google.com/search?q=SpVgg+Greuther+F%C3%BCrth&stick=H4sIAAAAAAAAAOOQUeLUz9U3sDSoKskwkkotLM0syC9WSElVyElUSCrNS0ktzslMT1QwilKAyCkUp6YDhRMVUjLLMosz8_MUEnNScxPzMhNPMYJNMsotyMmCso1zkszNoGwzC8ucdCgbbBuUbZpTbFwE01tmUpZzipELzC7KKyyDaU4qKjFLgmsuNMmDiWcbmmf_YsTj7gYWxkWsosEFYenpCu5FqaUlGalFCm6H9xSVZNxik2S4taJHJVHhkYLSC6PShZWlMr5ylRPkFIVUAbzAWXQYAQAA&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQs9oBKAN6BAg7EAU
+                                    [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SpVgg+Greuther+F%C3%BCrth&stick=H4sIAAAAAAAAAOOQUeLUz9U3sDSoKskwkkotLM0syC9WSElVyElUSCrNS0ktzslMT1QwilKAyCkUp6YDhRMVUjLLMosz8_MUEnNScxPzMhNPMYJNMsotyMmCso1zkszNoGwzC8ucdCgbbBuUbZpTbFwE01tmUpZzipELzC7KKyyDaU4qKjFLgmsuNMmDiWcbmmf_YsTj7gYWxkWsosEFYenpCu5FqaUlGalFCm6H9xSVZNxik2S4taJHJVHhkYLSC6PShZWlMr5ylRPkFIVUAbzAWXQYAQAA
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [name] => 1. FC Magdeburg
+                                    [image] => https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLyVwT13hsDNjMFu_XY3TFLMtyldA6IjEh754&s=0
+                                    [link] => https://www.google.com/search?q=1.+FC+Magdeburg&stick=H4sIAAAAAAAAAOOQUeLUz9U3MM0pNi4ykkotLM0syC9WSElVyElUSCrNS0ktzslMT1QwilKAyCkUp6YDhRMVUjLLMosz8_MUEnNScxPzMhNPMYJNMsotyMmCso1zkszNoGwzC8ucdCjb0qCqJAPKBtsM01tmUpZzipELzC7KKyyDaU4qKjFLgmsuNMmDiWcbmmf_YsTj7gYWxkWs_IZ6Cm7OCr6J6SmpSaVF6bfYJBlurehRSVR4pKD0wqh0YWWpjK9c5QQ5RSFVAOsLxlESAQAA&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQs9oBKAR6BAg7EAY
+                                    [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=1.+FC+Magdeburg&stick=H4sIAAAAAAAAAOOQUeLUz9U3MM0pNi4ykkotLM0syC9WSElVyElUSCrNS0ktzslMT1QwilKAyCkUp6YDhRMVUjLLMosz8_MUEnNScxPzMhNPMYJNMsotyMmCso1zkszNoGwzC8ucdCjb0qCqJAPKBtsM01tmUpZzipELzC7KKyyDaU4qKjFLgmsuNMmDiWcbmmf_YsTj7gYWxkWs_IZ6Cm7OCr6J6SmpSaVF6bfYJBlurehRSVR4pKD0wqh0YWWpjK9c5QQ5RSFVAOsLxlESAQAA
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [name] => F.C. Hansa Rostock
+                                    [image] => https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_lRP1v77IY7kPEfWTBCIZ6J0x_ozd4BQsKvZw&s=0
+                                    [link] => https://www.google.com/search?q=F.C.+Hansa+Rostock&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCozKcsxkkotLM0syC9WSElVyElUSCrNS0ktzslMT1QwilKAyCkUp6YDhRMVUjLLMosz8_MUEnNScxPzMhNPMUJMyi3IyYKyjXOSzM2gbDMLy5x0KNvSoKokA8o2zSk2LoLpBbniFCMXmF2UV1gG05xUVGKWBNdcaJIHE882NM_-xYjH3Q0sjItYhdz0nPUUPBLzihMVgvKLS_KTs2-xSTLcWtGjkqjwSEHphVHpwspSGV-5yglyikKqAG7VkucVAQAA&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQs9oBKAV6BAg7EAc
+                                    [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=F.C.+Hansa+Rostock&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCozKcsxkkotLM0syC9WSElVyElUSCrNS0ktzslMT1QwilKAyCkUp6YDhRMVUjLLMosz8_MUEnNScxPzMhNPMUJMyi3IyYKyjXOSzM2gbDMLy5x0KNvSoKokA8o2zSk2LoLpBbniFCMXmF2UV1gG05xUVGKWBNdcaJIHE882NM_-xYjH3Q0sjItYhdz0nPUUPBLzihMVgvKLS_KTs2-xSTLcWtGjkqjwSEHphVHpwspSGV-5yglyikKqAG7VkucVAQAA
+                                )
+
+                        )
+
+                    [see_more_link] => https://www.google.com/search?q=equipos+de+la+bundesliga+2&stick=H4sIAAAAAAAAAOOQMZJKLSzNLMgvVkhJVchJVEgqzUtJLc7JTE9UMIpSgMgpFKemA4UTFVIyyzKLM_PzFBJzUnMT8zITTzFy6ufqGxjlFuRkQdnGOUnmZlC2mYVlTjqUbWlQVZIBZZvmFBsXwfSWmZTlnGLkArOL8grLYJqTikrMkuCaC03yYOLZhubZvxjxuLuBhXERKx75W2ySDLdW9KgkKjxSUHphVLqwslTGV65ygpyikCoAGOh7nBIBAAA&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQ4qYDegQIOxAI
+                    [see_more_serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=equipos+de+la+bundesliga+2&stick=H4sIAAAAAAAAAOOQMZJKLSzNLMgvVkhJVchJVEgqzUtJLc7JTE9UMIpSgMgpFKemA4UTFVIyyzKLM_PzFBJzUnMT8zITTzFy6ufqGxjlFuRkQdnGOUnmZlC2mYVlTjqUbWlQVZIBZZvmFBsXwfSWmZTlnGLkArOL8grLYJqTikrMkuCaC03yYOLZhubZvxjxuLuBhXERKx75W2ySDLdW9KgkKjxSUHphVLqwslTGV65ygpyikCoAGOh7nBIBAAA
+                )
+
+        )
+
+    [related_questions] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [question] => ¿Cuántos equipos tiene la Bundesliga 2?
+                    [snippet] => Actualmente participan en la 2. Bundesliga 18 clubes que, siguiendo un calendario establecido por sorteo, se enfrentan entre sí en dos partidos, uno en terreno propio y otro en campo contrario.
+                    [title] => 2. Bundesliga - Wikipedia, la enciclopedia libre
+                    [link] => https://es.wikipedia.org/wiki/2._Bundesliga#:~:text=Actualmente%20participan%20en%20la%202,y%20otro%20en%20campo%20contrario.
+                    [displayed_link] => https://es.wikipedia.org › wiki › 2._Bundesliga
+                    [thumbnail] => https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJHt1lXnDd63e-dco4rBjK24-hMmxtgMxbHKBNoe8rhw&s
+                    [next_page_token] => eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TVIyUk1UbTFRZVc1RGVGaHdURFk1TkRsRldtaDFZMEp1WWxCS0xWWTFhM0Y2ZEV4Q2NEbFBORGhGY0hKblUwcEdUMWh3WTFKR04yRlRjR1l0ZUdzemJESXRkVUZWRWhkcVozcE1Xa3QyYWtOMWNXWnJaRlZRWDI5WFgydEJieG9pUVV4RlV6bDFUa05DWlVaUlltTkZRWFZWYVdWNmVHeFRjakpJYkc1VGVFOHdkdyIsImZjdiI6IjMiLCJlaSI6ImpnekxaS3ZqQ3VxZmtkVVBfb1dfa0FvIiwicWMiOiJDaUJsY1hWcGNHOGdjMlZuZFc1a1lTQmthWFpwYzJsdmJpQmhiR1Z0WVc1cFlSQU9mYldrSFQ4IiwicXVlc3Rpb24iOiLCv0N1w6FudG9zIGVxdWlwb3MgdGllbmUgbGEgQnVuZGVzbGlnYSAyPyIsImxrIjoiR2lWamRXRnVkRzl6SUdWeGRXbHdiM01nZEdsbGJtVWdiR0VnWW5WdVpHVnpiR2xuWVNBeSIsImJzIjoiYy1QUzQ5STh0Ti01OVBEQ3ZKTDhZb1hVd3RMTUFpQmRrcG1hbDZxUWs2amdWSnFYa2xxY2s1bWVxR0JrTDNHbW5NdU95eEtvX3ZEbTNIeUZZcUNLbk1UY1JKQzY0dFIwb01wRWhaVE1zc3ppek1PYjh4UlN3UHJCT2hOelVuTVQ4eEx0SlZvVnVIUzQxQV90RHl6TlBMd3lUeUd4T0RrMUx5VXpYeUVSM1NvREkyT2diY0ZjMmx4cUlOV0hWOEpkbHBGWXFaQ2FoMmwwaTY4QUl3QSIsImlkIjoiZmNfMSJ9
+                    [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TVIyUk1UbTFRZVc1RGVGaHdURFk1TkRsRldtaDFZMEp1WWxCS0xWWTFhM0Y2ZEV4Q2NEbFBORGhGY0hKblUwcEdUMWh3WTFKR04yRlRjR1l0ZUdzemJESXRkVUZWRWhkcVozcE1Xa3QyYWtOMWNXWnJaRlZRWDI5WFgydEJieG9pUVV4RlV6bDFUa05DWlVaUlltTkZRWFZWYVdWNmVHeFRjakpJYkc1VGVFOHdkdyIsImZjdiI6IjMiLCJlaSI6ImpnekxaS3ZqQ3VxZmtkVVBfb1dfa0FvIiwicWMiOiJDaUJsY1hWcGNHOGdjMlZuZFc1a1lTQmthWFpwYzJsdmJpQmhiR1Z0WVc1cFlSQU9mYldrSFQ4IiwicXVlc3Rpb24iOiLCv0N1w6FudG9zIGVxdWlwb3MgdGllbmUgbGEgQnVuZGVzbGlnYSAyPyIsImxrIjoiR2lWamRXRnVkRzl6SUdWeGRXbHdiM01nZEdsbGJtVWdiR0VnWW5WdVpHVnpiR2xuWVNBeSIsImJzIjoiYy1QUzQ5STh0Ti01OVBEQ3ZKTDhZb1hVd3RMTUFpQmRrcG1hbDZxUWs2amdWSnFYa2xxY2s1bWVxR0JrTDNHbW5NdU95eEtvX3ZEbTNIeUZZcUNLbk1UY1JKQzY0dFIwb01wRWhaVE1zc3ppek1PYjh4UlN3UHJCT2hOelVuTVQ4eEx0SlZvVnVIUzQxQV90RHl6TlBMd3lUeUd4T0RrMUx5VXpYeUVSM1NvREkyT2diY0ZjMmx4cUlOV0hWOEpkbHBGWXFaQ2FoMmwwaTY4QUl3QSIsImlkIjoiZmNfMSJ9
+                )
+
+            [1] => stdClass Object
+                (
+                    [question] => ¿Cómo se llama la segunda división de la liga alemana?
+                    [snippet] => Bundesliga en una eliminatoria a doble partido denominada Relegation. El equipo ganador juega en la Bundesliga de la temporada siguiente. El partido de ida se juega en casa del equipo de la Bundesliga y la vuelta en el estadio del conjunto de segunda división.
+                    [title] => Relegation: Así funciona el ascenso y descenso ... - Bundesliga
+                    [link] => https://www.bundesliga.com/es/bundesliga/noticias/como-es-el-descenso-y-la-promocion-en-la-liga-alemana-3410-3958#:~:text=Bundesliga%20en%20una%20eliminatoria%20a,del%20conjunto%20de%20segunda%20divisi%C3%B3n.
+                    [displayed_link] => https://www.bundesliga.com › bundesliga › noticias
+                    [thumbnail] => https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVMhG2NeJVzVswRemBHfVTp6qyWL9FfbG9mvZjDTgMQ&s
+                    [next_page_token] => eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TVIyUk1UbTFRZVc1RGVGaHdURFk1TkRsRldtaDFZMEp1WWxCS0xWWTFhM0Y2ZEV4Q2NEbFBORGhGY0hKblUwcEdUMWh3WTFKR04yRlRjR1l0ZUdzemJESXRkVUZWRWhkcVozcE1Xa3QyYWtOMWNXWnJaRlZRWDI5WFgydEJieG9pUVV4RlV6bDFUa05DWlVaUlltTkZRWFZWYVdWNmVHeFRjakpJYkc1VGVFOHdkdyIsImZjdiI6IjMiLCJlaSI6ImpnekxaS3ZqQ3VxZmtkVVBfb1dfa0FvIiwicWMiOiJDaUJsY1hWcGNHOGdjMlZuZFc1a1lTQmthWFpwYzJsdmJpQmhiR1Z0WVc1cFlSQU9mYldrSFQ4IiwicXVlc3Rpb24iOiLCv0PDs21vIHNlIGxsYW1hIGxhIHNlZ3VuZGEgZGl2aXNpw7NuIGRlIGxhIGxpZ2EgYWxlbWFuYT8iLCJsayI6ImM1TXlTejY4T1RkZm9UaFZJU2NuTVRkUklTY1J5RTR2elV0SlZFakpMTXNzemp5OE9VOGhKUlVrbnBPWm5xaVFtSk9hbTVpWENBQSIsImJzIjoiYy1QUzQ5STh0Ti01OVBEQ3ZKTDhZb1hVd3RMTUFpQmRrcG1hbDZxUWs2amdWSnFYa2xxY2s1bWVxR0JrTDNHbW5NdU95eEtvX3ZEbTNIeUZZcUNLbk1UY1JKQzY0dFIwb01wRWhaVE1zc3ppek1PYjh4UlN3UHJCT2hOelVuTVQ4eEx0SlZvVnVIUzQxQV90RHl6TlBMd3lUeUd4T0RrMUx5VXpYeUVSM1NvREkyT2diY0ZjMmx4cUlOV0hWOEpkbHBGWXFaQ2FoMmwwaTY4QUl3QSIsImlkIjoiZmNfMSJ9
+                    [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TVIyUk1UbTFRZVc1RGVGaHdURFk1TkRsRldtaDFZMEp1WWxCS0xWWTFhM0Y2ZEV4Q2NEbFBORGhGY0hKblUwcEdUMWh3WTFKR04yRlRjR1l0ZUdzemJESXRkVUZWRWhkcVozcE1Xa3QyYWtOMWNXWnJaRlZRWDI5WFgydEJieG9pUVV4RlV6bDFUa05DWlVaUlltTkZRWFZWYVdWNmVHeFRjakpJYkc1VGVFOHdkdyIsImZjdiI6IjMiLCJlaSI6ImpnekxaS3ZqQ3VxZmtkVVBfb1dfa0FvIiwicWMiOiJDaUJsY1hWcGNHOGdjMlZuZFc1a1lTQmthWFpwYzJsdmJpQmhiR1Z0WVc1cFlSQU9mYldrSFQ4IiwicXVlc3Rpb24iOiLCv0PDs21vIHNlIGxsYW1hIGxhIHNlZ3VuZGEgZGl2aXNpw7NuIGRlIGxhIGxpZ2EgYWxlbWFuYT8iLCJsayI6ImM1TXlTejY4T1RkZm9UaFZJU2NuTVRkUklTY1J5RTR2elV0SlZFakpMTXNzemp5OE9VOGhKUlVrbnBPWm5xaVFtSk9hbTVpWENBQSIsImJzIjoiYy1QUzQ5STh0Ti01OVBEQ3ZKTDhZb1hVd3RMTUFpQmRrcG1hbDZxUWs2amdWSnFYa2xxY2s1bWVxR0JrTDNHbW5NdU95eEtvX3ZEbTNIeUZZcUNLbk1UY1JKQzY0dFIwb01wRWhaVE1zc3ppek1PYjh4UlN3UHJCT2hOelVuTVQ4eEx0SlZvVnVIUzQxQV90RHl6TlBMd3lUeUd4T0RrMUx5VXpYeUVSM1NvREkyT2diY0ZjMmx4cUlOV0hWOEpkbHBGWXFaQ2FoMmwwaTY4QUl3QSIsImlkIjoiZmNfMSJ9
+                )
+
+            [2] => stdClass Object
+                (
+                    [question] => ¿Quién ascendio a la Bundesliga 2023?
+                    [snippet] => Al Hamburgo se le escapó el ascenso directo en el último momento: pese a su victoria (0-1 ante el Sandhausen), no ascenderán de forma directa a la Bundesliga 2023/24. El Heidenheim ganó de forma heroíca ante el Regensburg (que desciende) y sube a la máxima categoría del fútbol germano por primera vez en su historia.
+                    [title] => Bundesliga: El Heidenheim hace historia y deja al Hamburgo a las ...
+                    [date] => May 28, 2023
+                    [link] => https://www.marca.com/futbol/bundesliga/2023/05/28/64737630e2704e4b838b458c.html#:~:text=Al%20Hamburgo%20se%20le,primera%20vez%20en%20su%20historia.
+                    [displayed_link] => https://www.marca.com › bundesliga › 2023/05/28
+                    [thumbnail] => https://serpapi.com/searches/64cb0c8ce4a23de1e2f58664/images/deb1dcfa5961dfca9228ceaa808da53732bc031d1029c23b9c2e61ef1077e9e4.png
+                    [next_page_token] => eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TVIyUk1UbTFRZVc1RGVGaHdURFk1TkRsRldtaDFZMEp1WWxCS0xWWTFhM0Y2ZEV4Q2NEbFBORGhGY0hKblUwcEdUMWh3WTFKR04yRlRjR1l0ZUdzemJESXRkVUZWRWhkcVozcE1Xa3QyYWtOMWNXWnJaRlZRWDI5WFgydEJieG9pUVV4RlV6bDFUa05DWlVaUlltTkZRWFZWYVdWNmVHeFRjakpJYkc1VGVFOHdkdyIsImZjdiI6IjMiLCJlaSI6ImpnekxaS3ZqQ3VxZmtkVVBfb1dfa0FvIiwicWMiOiJDaUJsY1hWcGNHOGdjMlZuZFc1a1lTQmthWFpwYzJsdmJpQmhiR1Z0WVc1cFlSQU9mYldrSFQ4IiwicXVlc3Rpb24iOiLCv1F1acOpbiBhc2NlbmRpbyBhIGxhIEJ1bmRlc2xpZ2EgMjAyMz8iLCJsayI6IkdpTnhkV2xsYmlCaGMyTmxibVJwYnlCaElHeGhJR0oxYm1SbGMyeHBaMkVnTWpBeU13IiwiYnMiOiJjLVBTNDlJOHROLTU5UERDdkpMOFlvWFV3dExNQWlCZGtwbWFsNnFRazZqZ1ZKcVhrbHFjazVtZXFHQmtMM0dtbk11T3l4S29fdkRtM0h5RllxQ0tuTVRjUkpDNjR0UjBvTXBFaFpUTXNzeml6TU9iOHhSU3dQckJPaE56VW5NVDh4THRKVm9WdUhTNDFBX3REeXpOUEx3eVR5R3hPRGsxTHlVelh5RVIzU29ESTJPZ2JjRmMybHhxSU5XSFY4SmRscEZZcVpDYWgybDBpNjhBSXdBIiwiaWQiOiJmY18xIn0=
+                    [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TVIyUk1UbTFRZVc1RGVGaHdURFk1TkRsRldtaDFZMEp1WWxCS0xWWTFhM0Y2ZEV4Q2NEbFBORGhGY0hKblUwcEdUMWh3WTFKR04yRlRjR1l0ZUdzemJESXRkVUZWRWhkcVozcE1Xa3QyYWtOMWNXWnJaRlZRWDI5WFgydEJieG9pUVV4RlV6bDFUa05DWlVaUlltTkZRWFZWYVdWNmVHeFRjakpJYkc1VGVFOHdkdyIsImZjdiI6IjMiLCJlaSI6ImpnekxaS3ZqQ3VxZmtkVVBfb1dfa0FvIiwicWMiOiJDaUJsY1hWcGNHOGdjMlZuZFc1a1lTQmthWFpwYzJsdmJpQmhiR1Z0WVc1cFlSQU9mYldrSFQ4IiwicXVlc3Rpb24iOiLCv1F1acOpbiBhc2NlbmRpbyBhIGxhIEJ1bmRlc2xpZ2EgMjAyMz8iLCJsayI6IkdpTnhkV2xsYmlCaGMyTmxibVJwYnlCaElHeGhJR0oxYm1SbGMyeHBaMkVnTWpBeU13IiwiYnMiOiJjLVBTNDlJOHROLTU5UERDdkpMOFlvWFV3dExNQWlCZGtwbWFsNnFRazZqZ1ZKcVhrbHFjazVtZXFHQmtMM0dtbk11T3l4S29fdkRtM0h5RllxQ0tuTVRjUkpDNjR0UjBvTXBFaFpUTXNzeml6TU9iOHhSU3dQckJPaE56VW5NVDh4THRKVm9WdUhTNDFBX3REeXpOUEx3eVR5R3hPRGsxTHlVelh5RVIzU29ESTJPZ2JjRmMybHhxSU5XSFY4SmRscEZZcVpDYWgybDBpNjhBSXdBIiwiaWQiOiJmY18xIn0%3D
+                )
+
+            [3] => stdClass Object
+                (
+                    [question] => ¿Qué equipos hay en la liga alemana?
+                    [title] => Equipos
+                    [link] => https://www.elcorreo.com/deportes/futbol/liga-alemana/equipos-sd.html
+                    [list] => Array
+                        (
+                            [0] => Colonia. RheinEnergie Stadion. Union Berlin. An der Alten Försterei. ... 
+                            [1] => FC Heidenheim 1846. Voith-Arena. Leverkusen. BayArena. ... 
+                            [2] => B. Gladbach. Borussia-Park. Eintracht. ... 
+                            [3] => Bayern Múnich. Allianz Arena. Leipzig. Red Bull Arena (Leipzig) ... 
+                            [4] => Werder Bremen. Weserstadion. Friburgo. ... 
+                            [5] => Stuttgart. Mercedes-Benz-Arena. VfL Bochum 1848.
+                        )
+
+                    [displayed_link] => https://www.elcorreo.com › liga-alemana › equipos-sd
+                    [thumbnail] => https://serpapi.com/searches/64cb0c8ce4a23de1e2f58664/images/deb1dcfa5961dfca9228ceaa808da537948420ead8b8e4c9ed42cce9800bb6af.png
+                    [next_page_token] => eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TVIyUk1UbTFRZVc1RGVGaHdURFk1TkRsRldtaDFZMEp1WWxCS0xWWTFhM0Y2ZEV4Q2NEbFBORGhGY0hKblUwcEdUMWh3WTFKR04yRlRjR1l0ZUdzemJESXRkVUZWRWhkcVozcE1Xa3QyYWtOMWNXWnJaRlZRWDI5WFgydEJieG9pUVV4RlV6bDFUa05DWlVaUlltTkZRWFZWYVdWNmVHeFRjakpJYkc1VGVFOHdkdyIsImZjdiI6IjMiLCJlaSI6ImpnekxaS3ZqQ3VxZmtkVVBfb1dfa0FvIiwicWMiOiJDaUJsY1hWcGNHOGdjMlZuZFc1a1lTQmthWFpwYzJsdmJpQmhiR1Z0WVc1cFlSQU9mYldrSFQ4IiwicXVlc3Rpb24iOiLCv1F1w6kgZXF1aXBvcyBoYXkgZW4gbGEgbGlnYSBhbGVtYW5hPyIsImxrIjoiR2laeGRXVWdaWEYxYVhCdmN5QndaWEowWlc1bFkyVnVJR0VnYkdFZ1luVnVaR1Z6YkdsbllRIiwiYnMiOiJjLVBTNDlJOHROLTU5UERDdkpMOFlvWFV3dExNQWlCZGtwbWFsNnFRazZqZ1ZKcVhrbHFjazVtZXFHQmtMM0dtbk11T3l4S29fdkRtM0h5RllxQ0tuTVRjUkpDNjR0UjBvTXBFaFpUTXNzeml6TU9iOHhSU3dQckJPaE56VW5NVDh4THRKVm9WdUhTNDFBX3REeXpOUEx3eVR5R3hPRGsxTHlVelh5RVIzU29ESTJPZ2JjRmMybHhxSU5XSFY4SmRscEZZcVpDYWgybDBpNjhBSXdBIiwiaWQiOiJmY18xIn0=
+                    [serpapi_link] => https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TVIyUk1UbTFRZVc1RGVGaHdURFk1TkRsRldtaDFZMEp1WWxCS0xWWTFhM0Y2ZEV4Q2NEbFBORGhGY0hKblUwcEdUMWh3WTFKR04yRlRjR1l0ZUdzemJESXRkVUZWRWhkcVozcE1Xa3QyYWtOMWNXWnJaRlZRWDI5WFgydEJieG9pUVV4RlV6bDFUa05DWlVaUlltTkZRWFZWYVdWNmVHeFRjakpJYkc1VGVFOHdkdyIsImZjdiI6IjMiLCJlaSI6ImpnekxaS3ZqQ3VxZmtkVVBfb1dfa0FvIiwicWMiOiJDaUJsY1hWcGNHOGdjMlZuZFc1a1lTQmthWFpwYzJsdmJpQmhiR1Z0WVc1cFlSQU9mYldrSFQ4IiwicXVlc3Rpb24iOiLCv1F1w6kgZXF1aXBvcyBoYXkgZW4gbGEgbGlnYSBhbGVtYW5hPyIsImxrIjoiR2laeGRXVWdaWEYxYVhCdmN5QndaWEowWlc1bFkyVnVJR0VnYkdFZ1luVnVaR1Z6YkdsbllRIiwiYnMiOiJjLVBTNDlJOHROLTU5UERDdkpMOFlvWFV3dExNQWlCZGtwbWFsNnFRazZqZ1ZKcVhrbHFjazVtZXFHQmtMM0dtbk11T3l4S29fdkRtM0h5RllxQ0tuTVRjUkpDNjR0UjBvTXBFaFpUTXNzeml6TU9iOHhSU3dQckJPaE56VW5NVDh4THRKVm9WdUhTNDFBX3REeXpOUEx3eVR5R3hPRGsxTHlVelh5RVIzU29ESTJPZ2JjRmMybHhxSU5XSFY4SmRscEZZcVpDYWgybDBpNjhBSXdBIiwiaWQiOiJmY18xIn0%3D
+                )
+
+        )
+
+    [answer_box] => stdClass Object
+        (
+            [type] => organic_result
+            [title] => Resultados 2. Bundesliga 2023/2024, Fútbol Alemania
+            [link] => https://www.flashscore.es/futbol/alemania/2-bundesliga/
+            [displayed_link] => https://www.flashscore.es › futbol › 2-bundesliga
+            [snippet] => Fútbol Alemania
+            [snippet_highlighted_words] => Array
+                (
+                    [0] => Fútbol Alemania
+                    [1] => Alemania
+                )
+
+            [list] => Array
+                (
+                    [0] => Braunschweig. Kiel. 30.07.
+                    [1] => Greuther Fürth. Paderborn. 30.07.
+                    [2] => Rostock. Núremberg. 30.07.
+                    [3] => Fortuna Düsseldorf. Hertha BSC. 29.07.
+                    [4] => Hannover. Elversberg. 29.07.
+                    [5] => Kaiserslautern. St. Pauli. 29.07.
+                    [6] => Osnabruck. Karlsruher. 29.07.
+                    [7] => Wehen. Magdeburgo. 29.07.
+                )
+
+            [thumbnail] => https://serpapi.com/searches/64cb0c8ce4a23de1e2f58664/images/7009871d2fa22b01972920b5caa192e7c13d823c450131f8.png
+            [about_this_result] => stdClass Object
+                (
+                    [keywords] => Array
+                        (
+                            [0] => equipo
+                            [1] => alemania
+                        )
+
+                    [languages] => Array
+                        (
+                            [0] => English
+                        )
+
+                    [regions] => Array
+                        (
+                            [0] => United States
+                        )
+
+                )
+
+            [about_page_link] => https://www.google.comhttps://myaccount.google.com/yourdata/search
+            [cached_page_link] => https://webcache.googleusercontent.com/search?q=cache:Sv6mqCrk2PgJ:https://www.fichajes.com/alemania/2-bundesliga/clasificacion&cd=11&hl=en&ct=clnk&gl=us
+        )
+
+    [organic_results] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [position] => 1
+                    [title] => Clasificación 2. Bundesliga 2023/2024 - Alemania
+                    [link] => https://www.fichajes.com/alemania/2-bundesliga/clasificacion
+                    [displayed_link] => https://www.fichajes.com › alemania
+                    [favicon] => https://serpapi.com/searches/64cb0c8ce4a23de1e2f58664/images/9847b7ca44a8f61eae8b200cd7e34f9ffe09599b5b64238f39426db7fab668d9.png
+                    [about_this_result] => stdClass Object
+                        (
+                            [keywords] => Array
+                                (
+                                    [0] => equipo
+                                    [1] => alemania
+                                )
+
+                            [languages] => Array
+                                (
+                                    [0] => English
+                                )
+
+                            [regions] => Array
+                                (
+                                    [0] => United States
+                                )
+
+                        )
+
+                    [cached_page_link] => https://webcache.googleusercontent.com/search?q=cache:Sv6mqCrk2PgJ:https://www.fichajes.com/alemania/2-bundesliga/clasificacion&cd=11&hl=en&ct=clnk&gl=us
+                    [rich_snippet_table] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [unknown] => 1
+                                    [equipo] => Brunswick
+                                    [pts] => 0
+                                    [j] => 0
+                                    [dif] => 0
+                                    [g] => 0
+                                    [e] => 0
+                                    [p] => 0
+                                    [gf] => 0
+                                    [gc] => 0
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [unknown] => 2
+                                    [equipo] => Elversberg
+                                    [pts] => 0
+                                    [j] => 0
+                                    [dif] => 0
+                                    [g] => 0
+                                    [e] => 0
+                                    [p] => 0
+                                    [gf] => 0
+                                    [gc] => 0
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [unknown] => 3
+                                    [equipo] => Fortuna Düsseldorf
+                                    [pts] => 0
+                                    [j] => 0
+                                    [dif] => 0
+                                    [g] => 0
+                                    [e] => 0
+                                    [p] => 0
+                                    [gf] => 0
+                                    [gc] => 0
+                                )
+
+                        )
+
+                    [source] => fichajes.com
+                )
+
+            [1] => stdClass Object
+                (
+                    [position] => 2
+                    [title] => Posiciones de la Bundesliga 2 de Alemania 2023-24
+                    [link] => https://espndeportes.espn.com/futbol/posiciones/_/liga/ger.2
+                    [displayed_link] => https://espndeportes.espn.com › ger.2
+                    [favicon] => https://serpapi.com/searches/64cb0c8ce4a23de1e2f58664/images/9847b7ca44a8f61eae8b200cd7e34f9fb1a9dbce7b79cf0053091817709f2dbf.png
+                    [about_this_result] => stdClass Object
+                        (
+                            [keywords] => Array
+                                (
+                                    [0] => alemania
+                                )
+
+                            [related_keywords] => Array
+                                (
+                                    [0] => liga
+                                )
+
+                            [languages] => Array
+                                (
+                                    [0] => English
+                                )
+
+                            [regions] => Array
+                                (
+                                    [0] => United States
+                                )
+
+                        )
+
+                    [cached_page_link] => https://webcache.googleusercontent.com/search?q=cache:G9dQg-H5kOoJ:https://espndeportes.espn.com/futbol/posiciones/_/liga/ger.2&cd=12&hl=en&ct=clnk&gl=us
+                    [rich_snippet_table] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [j] => 1
+                                    [g] => 1
+                                    [e] => 0
+                                    [p] => 0
+                                    [gf] => 5
+                                    [gc] => 0
+                                    [dif] => +5
+                                    [pts] => 3
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [j] => 1
+                                    [g] => 1
+                                    [e] => 0
+                                    [p] => 0
+                                    [gf] => 5
+                                    [gc] => 3
+                                    [dif] => +2
+                                    [pts] => 3
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [j] => 1
+                                    [g] => 1
+                                    [e] => 0
+                                    [p] => 0
+                                    [gf] => 2
+                                    [gc] => 0
+                                    [dif] => +2
+                                    [pts] => 3
+                                )
+
+                        )
+
+                    [source] => ESPN
+                )
+
+            [2] => stdClass Object
+                (
+                    [position] => 3
+                    [title] => 2. Bundesliga - Wikipedia, la enciclopedia libre
+                    [link] => https://es.wikipedia.org/wiki/2._Bundesliga
+                    [displayed_link] => https://es.wikipedia.org › wiki › 2._...
+                    [favicon] => https://serpapi.com/searches/64cb0c8ce4a23de1e2f58664/images/9847b7ca44a8f61eae8b200cd7e34f9fa117541c12dedaab39a626cee19a2522.png
+                    [snippet] => Equipos participantes de la temporada 2023-24Editar ; Paderborn 07 · Paderborn · Benteler-Arena, 15.306 ; Schalke 04 · Gelsenkirchen · Veltins-Arena, 62.271.
+                    [snippet_highlighted_words] => Array
+                        (
+                            [0] => Equipos
+                        )
+
+                    [rich_snippet] => stdClass Object
+                        (
+                            [bottom] => stdClass Object
+                                (
+                                    [detected_extensions] => stdClass Object
+                                        (
+                                            [price] => 18
+                                            [currency] => Equipos participantes Categoría Campeón actual FC Heidenheim (
+                                            [sitio_web_oficial_bundesligade] => 23
+                                        )
+
+                                    [extensions] => Array
+                                        (
+                                            [0] => Equipos participantes: 18Categoría: 2Campeón actual: FC Heidenheim (2022
+                                            [1] => 23)‎Sitio web oficial: Bundesliga.de
+                                        )
+
+                                )
+
+                        )
+
+                    [about_this_result] => stdClass Object
+                        (
+                            [keywords] => Array
+                                (
+                                    [0] => equipo
+                                    [1] => segunda
+                                    [2] => division
+                                    [3] => alemania
+                                )
+
+                            [related_keywords] => Array
+                                (
+                                    [0] => equipos
+                                )
+
+                            [languages] => Array
+                                (
+                                    [0] => English
+                                )
+
+                            [regions] => Array
+                                (
+                                    [0] => United States
+                                )
+
+                        )
+
+                    [cached_page_link] => https://webcache.googleusercontent.com/search?q=cache:ARtOlmbl2osJ:https://es.wikipedia.org/wiki/2._Bundesliga&cd=13&hl=en&ct=clnk&gl=us
+                    [related_pages_link] => https://www.google.com/search?q=related:https://es.wikipedia.org/wiki/2._Bundesliga+equipo+segunda+division+alemania
+                    [source] => Wikipedia
+                )
+
+            [3] => stdClass Object
+                (
+                    [position] => 4
+                    [title] => 2. Bundesliga 23/24
+                    [link] => https://www.transfermarkt.mx/2-bundesliga/startseite/wettbewerb/L2
+                    [displayed_link] => https://www.transfermarkt.mx › wet...
+                    [favicon] => https://serpapi.com/searches/64cb0c8ce4a23de1e2f58664/images/9847b7ca44a8f61eae8b200cd7e34f9f95fb56f2ca949558a793291fbc29df30.jpeg
+                    [about_this_result] => stdClass Object
+                        (
+                            [keywords] => Array
+                                (
+                                    [0] => equipo
+                                    [1] => segunda
+                                    [2] => division
+                                    [3] => alemania
+                                )
+
+                            [languages] => Array
+                                (
+                                    [0] => English
+                                )
+
+                            [regions] => Array
+                                (
+                                    [0] => United States
+                                )
+
+                        )
+
+                    [cached_page_link] => https://webcache.googleusercontent.com/search?q=cache:xzww1tFrEUEJ:https://www.transfermarkt.mx/2-bundesliga/startseite/wettbewerb/L2&cd=24&hl=en&ct=clnk&gl=us
+                    [rich_snippet_list] => Array
+                        (
+                            [0] => Mehmet Aydin. Edad: 21 Años
+                            [1] => Frederik Jäkel. Edad: 22 Años
+                            [2] => Florian Flick. Edad: 23 Años
+                            [3] => Haris Tabakovic. Edad: 29 Años
+                            [4] => Tim Stappmann. Edad: 24 Años
+                        )
+
+                    [source] => transfermarkt.mx
+                )
+
+            [4] => stdClass Object
+                (
+                    [position] => 5
+                    [title] => Equipos y jugadores de la Bundesliga 2023 - 2024
+                    [link] => https://www.marca.com/futbol/bundesliga/equipos.html
+                    [displayed_link] => https://www.marca.com › futbol › e...
+                    [favicon] => https://serpapi.com/searches/64cb0c8ce4a23de1e2f58664/images/9847b7ca44a8f61eae8b200cd7e34f9fd4527ce1a9551bd67be0e3b4b644ed1b.png
+                    [snippet] => Equipos y jugadores de la Bundesliga 2023 - 2024. Augsburgo. FC Augsburg · Bayer Leverkusen. Bayern Munich. FC Bayern München · VfL Bochum 1848 ...
+                    [snippet_highlighted_words] => Array
+                        (
+                            [0] => Equipos
+                            [1] => jugadores
+                        )
+
+                    [about_this_result] => stdClass Object
+                        (
+                            [keywords] => Array
+                                (
+                                    [0] => equipo
+                                    [1] => segunda
+                                    [2] => division
+                                )
+
+                            [related_keywords] => Array
+                                (
+                                    [0] => equipos
+                                    [1] => jugadores
+                                )
+
+                            [languages] => Array
+                                (
+                                    [0] => English
+                                )
+
+                            [regions] => Array
+                                (
+                                    [0] => United States
+                                )
+
+                        )
+
+                    [cached_page_link] => https://webcache.googleusercontent.com/search?q=cache:VOSIhbisW5QJ:https://www.marca.com/futbol/bundesliga/equipos.html&cd=25&hl=en&ct=clnk&gl=us
+                    [source] => marca.com
+                )
+
+            [5] => stdClass Object
+                (
+                    [position] => 6
+                    [title] => 2. Bundesliga 2023/2024 marcadores en vivo, resultados ...
+                    [link] => https://www.flashscore.cl/futbol/alemania/2-bundesliga/
+                    [displayed_link] => https://www.flashscore.cl › alemania
+                    [favicon] => https://serpapi.com/searches/64cb0c8ce4a23de1e2f58664/images/9847b7ca44a8f61eae8b200cd7e34f9f8c8ba17b915a82ff6524c6724fbb02c6.png
+                    [snippet] => Fútbol Alemania ; Braunschweig. Kiel ; Greuther Fürth. Paderborn ; Rostock. Núremberg ; Fortuna Düsseldorf. Hertha BSC ; Hannover. Elversberg.
+                    [snippet_highlighted_words] => Array
+                        (
+                            [0] => Alemania
+                        )
+
+                    [about_this_result] => stdClass Object
+                        (
+                            [keywords] => Array
+                                (
+                                    [0] => equipo
+                                    [1] => division
+                                    [2] => alemania
+                                )
+
+                            [languages] => Array
+                                (
+                                    [0] => English
+                                )
+
+                            [regions] => Array
+                                (
+                                    [0] => United States
+                                )
+
+                        )
+
+                    [cached_page_link] => https://webcache.googleusercontent.com/search?q=cache:-_nsC5F0nR0J:https://www.flashscore.cl/futbol/alemania/2-bundesliga/&cd=26&hl=en&ct=clnk&gl=us
+                    [source] => flashscore.cl
+                )
+
+            [6] => stdClass Object
+                (
+                    [position] => 7
+                    [title] => Equipos - Liga Alemana
+                    [link] => https://www.elcorreo.com/deportes/futbol/liga-alemana/equipos-sd.html
+                    [displayed_link] => https://www.elcorreo.com › futbol
+                    [favicon] => https://serpapi.com/searches/64cb0c8ce4a23de1e2f58664/images/9847b7ca44a8f61eae8b200cd7e34f9f4834de0f949e9c374742265b0a5b6367.png
+                    [snippet] => Equipos ; Colonia. RheinEnergie Stadion. Union Berlin. An der Alten Försterei ; 1. FC Heidenheim 1846. Voith-Arena. Leverkusen. BayArena ; B. Gladbach. Borussia- ...
+                    [snippet_highlighted_words] => Array
+                        (
+                            [0] => Equipos
+                            [1] => B
+                        )
+
+                    [about_this_result] => stdClass Object
+                        (
+                            [keywords] => Array
+                                (
+                                    [0] => segunda
+                                    [1] => division
+                                )
+
+                            [related_keywords] => Array
+                                (
+                                    [0] => equipos
+                                    [1] => b
+                                    [2] => liga
+                                    [3] => alemana
+                                )
+
+                            [languages] => Array
+                                (
+                                    [0] => English
+                                )
+
+                            [regions] => Array
+                                (
+                                    [0] => United States
+                                )
+
+                        )
+
+                    [cached_page_link] => https://webcache.googleusercontent.com/search?q=cache:GyyS_w5PWPEJ:https://www.elcorreo.com/deportes/futbol/liga-alemana/equipos-sd.html&cd=27&hl=en&ct=clnk&gl=us
+                    [source] => elcorreo.com
+                )
+
+            [7] => stdClass Object
+                (
+                    [position] => 8
+                    [title] => Relegation: Así funciona el ascenso y descenso en la ...
+                    [link] => https://www.bundesliga.com/es/bundesliga/noticias/como-es-el-descenso-y-la-promocion-en-la-liga-alemana-3410-3958
+                    [displayed_link] => https://www.bundesliga.com › com...
+                    [favicon] => https://serpapi.com/searches/64cb0c8ce4a23de1e2f58664/images/9847b7ca44a8f61eae8b200cd7e34f9f056b78fbb183c36c57a030bbef4fb41c.png
+                    [snippet] => Explicamos cómo funciona el ascenso y descenso a la Bundesliga, así como los equipos que disputan la fase de Relegation.
+                    [snippet_highlighted_words] => Array
+                        (
+                            [0] => equipos
+                        )
+
+                    [about_this_result] => stdClass Object
+                        (
+                            [keywords] => Array
+                                (
+                                    [0] => equipo
+                                    [1] => segunda
+                                    [2] => division
+                                    [3] => alemania
+                                )
+
+                            [related_keywords] => Array
+                                (
+                                    [0] => equipos
+                                    [1] => liga
+                                    [2] => alemana
+                                )
+
+                            [languages] => Array
+                                (
+                                    [0] => English
+                                )
+
+                            [regions] => Array
+                                (
+                                    [0] => United States
+                                )
+
+                        )
+
+                    [cached_page_link] => https://webcache.googleusercontent.com/search?q=cache:qh8TAp6xhEQJ:https://www.bundesliga.com/es/bundesliga/noticias/como-es-el-descenso-y-la-promocion-en-la-liga-alemana-3410-3958&cd=28&hl=en&ct=clnk&gl=us
+                    [source] => Bundesliga
+                )
+
+            [8] => stdClass Object
+                (
+                    [position] => 9
+                    [title] => Segunda División de Alemania - 2. Bundesliga Fútbol ...
+                    [link] => https://www.los-deportes.info/futbol-segunda-division-de-alemania-2-bundesliga-temporada-regular-2021-2022-resultados-eprd114543.html
+                    [displayed_link] => https://www.los-deportes.info › futb...
+                    [favicon] => https://serpapi.com/searches/64cb0c8ce4a23de1e2f58664/images/9847b7ca44a8f61eae8b200cd7e34f9f2a1e6710e31d3f1de40ac231ef3604b0.png
+                    [snippet] => Clasificación general ; 2, Werder Bremen, 63 ; 3, Hamburger SV, 60 ; 4, Darmstadt 98, 60 ; 5, FC St Pauli, 57 ...
+                    [snippet_highlighted_words] => Array
+                        (
+                            [0] => 2
+                        )
+
+                    [about_this_result] => stdClass Object
+                        (
+                            [keywords] => Array
+                                (
+                                    [0] => equipo
+                                    [1] => segunda
+                                    [2] => division
+                                    [3] => alemania
+                                )
+
+                            [related_keywords] => Array
+                                (
+                                    [0] => división
+                                )
+
+                            [languages] => Array
+                                (
+                                    [0] => English
+                                )
+
+                            [regions] => Array
+                                (
+                                    [0] => United States
+                                )
+
+                        )
+
+                    [cached_page_link] => https://webcache.googleusercontent.com/search?q=cache:-6Mlvd5S3oAJ:https://www.los-deportes.info/futbol-segunda-division-de-alemania-2-bundesliga-temporada-regular-2021-2022-resultados-eprd114543.html&cd=29&hl=en&ct=clnk&gl=us
+                    [source] => los-deportes.info
+                )
+
+        )
+
+    [related_searches] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [query] => equipos de alemania segunda división
+                    [link] => https://www.google.com/search?q=Equipos+de+Alemania+Segunda+Divisi%C3%B3n&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQ1QJ6BAhAEAE
+                )
+
+            [1] => stdClass Object
+                (
+                    [query] => equipos de la bundesliga 3
+                    [link] => https://www.google.com/search?q=Equipos+de+la+bundesliga+3&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQ1QJ6BAhGEAE
+                )
+
+            [2] => stdClass Object
+                (
+                    [query] => segunda categoria alemania
+                    [link] => https://www.google.com/search?q=Segunda+categoria+Alemania&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQ1QJ6BAhIEAE
+                )
+
+            [3] => stdClass Object
+                (
+                    [query] => 2 division italiana
+                    [link] => https://www.google.com/search?q=2+division+italiana&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQ1QJ6BAhKEAE
+                )
+
+            [4] => stdClass Object
+                (
+                    [query] => liga alemana 3
+                    [link] => https://www.google.com/search?q=Liga+alemana+3&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQ1QJ6BAhJEAE
+                )
+
+            [5] => stdClass Object
+                (
+                    [query] => equipos que ascendieron en alemania
+                    [link] => https://www.google.com/search?q=Equipos+que+ascendieron+en+Alemania&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQ1QJ6BAg-EAE
+                )
+
+            [6] => stdClass Object
+                (
+                    [query] => liga holandesa 2 tabla
+                    [link] => https://www.google.com/search?q=Liga+holandesa+2+tabla&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQ1QJ6BAg9EAE
+                )
+
+            [7] => stdClass Object
+                (
+                    [query] => 2 bundesliga 2023--24
+                    [link] => https://www.google.com/search?q=2+Bundesliga+2023--24&sa=X&ved=2ahUKEwir4tHCtL-AAxXqT6QEHf7CD6IQ1QJ6BAg_EAE
+                )
+
+        )
+
+    [pagination] => stdClass Object
+        (
+            [current] => 1
+            [next] => https://www.google.com/search?q=equipo+segunda+division+alemania&oq=equipo+segunda+division+alemania&start=10&sourceid=chrome&ie=UTF-8
+            [other_pages] => stdClass Object
+                (
+                    [2] => https://www.google.com/search?q=equipo+segunda+division+alemania&oq=equipo+segunda+division+alemania&start=10&sourceid=chrome&ie=UTF-8
+                    [3] => https://www.google.com/search?q=equipo+segunda+division+alemania&oq=equipo+segunda+division+alemania&start=20&sourceid=chrome&ie=UTF-8
+                    [4] => https://www.google.com/search?q=equipo+segunda+division+alemania&oq=equipo+segunda+division+alemania&start=30&sourceid=chrome&ie=UTF-8
+                    [5] => https://www.google.com/search?q=equipo+segunda+division+alemania&oq=equipo+segunda+division+alemania&start=40&sourceid=chrome&ie=UTF-8
+                )
+
+        )
+
+    [serpapi_pagination] => stdClass Object
+        (
+            [current] => 1
+            [next_link] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=equipo+segunda+division+alemania&start=10
+            [next] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=equipo+segunda+division+alemania&start=10
+            [other_pages] => stdClass Object
+                (
+                    [2] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=equipo+segunda+division+alemania&start=10
+                    [3] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=equipo+segunda+division+alemania&start=20
+                    [4] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=equipo+segunda+division+alemania&start=30
+                    [5] => https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=equipo+segunda+division+alemania&start=40
+                )
+
+        )
+
+)
